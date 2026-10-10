@@ -290,6 +290,144 @@
       }
     ]
   },
+  "/media/design/ip-01/cover": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "ee9d17aa02a464e2f19c4ddee1895ad746575bc730f4b14f3934d11c29fdf1ba",
+    "variants": [
+      {
+        "src": "/media/design/ip-01/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/ip-01/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/ip-01/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/design/ip-02/cover": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "914c7243b663916e33a736e4a47a98d01e6c7bfc17d2f908681202ca5cd573fb",
+    "variants": [
+      {
+        "src": "/media/design/ip-02/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/ip-02/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/ip-02/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/design/ip-03/cover": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "078fa658a91e17456b8f17e844e032dc5bc3135f371617c75fa75062ab03cb0f",
+    "variants": [
+      {
+        "src": "/media/design/ip-03/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/ip-03/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/ip-03/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/design/ip-04/cover": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "620e049fb3121de69148fb41b2cb60b982a18389f484356beb9622a99dd48033",
+    "variants": [
+      {
+        "src": "/media/design/ip-04/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/ip-04/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/ip-04/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/design/ip-05/cover": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "433bac8395a92a5ee300b51b0625cd15fbe0214531129bfb4af3d0b9c24d0365",
+    "variants": [
+      {
+        "src": "/media/design/ip-05/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/ip-05/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/ip-05/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/design/ip-06/cover": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "851cbbd8e0d5aa28058297107f054f133bfc31a40b2867877bb94b95a83bbc4f",
+    "variants": [
+      {
+        "src": "/media/design/ip-06/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/ip-06/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/ip-06/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
   "/media/design/new-perspectives/01": {
     "width": 1440,
     "height": 1920,

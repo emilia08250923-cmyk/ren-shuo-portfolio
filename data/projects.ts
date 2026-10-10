@@ -51,10 +51,20 @@ const uploadedBanners: DesignProject[] = [1, 2, 3, 4, 6, 7, 8, 9].map((number, i
   images: [{ base: `/media/design/banner-${String(number).padStart(2, "0")}/cover`, alt: `Banner ${index + 1} 完整作品` }],
 }));
 
+const uploadedIPs: DesignProject[] = [1, 2, 3, 4, 5, 6].map((number, index) => ({
+  id: 300 + number, slug: `ip-${String(number).padStart(2, "0")}`, title: `IP ${index + 1}`,
+  category: "ip-design", type: "design", year: "", demo: false, carouselType: "normal", selected: index === 0,
+  cover: `/media/design/ip-${String(number).padStart(2, "0")}/cover`,
+  description: "IP 设计作品，点击图片可按原始比例放大查看。",
+  role: ["IP 设计"], tools: ["待补充"], process: [],
+  images: [{ base: `/media/design/ip-${String(number).padStart(2, "0")}/cover`, alt: `IP ${index + 1} 完整作品` }],
+}));
+
 export const projects: Project[] = [
   ...uploadedPosters,
   ...uploadedBanners,
-  ...designSeed.filter(item => item[2] !== "poster" && item[2] !== "banner").map(([slug, title, category, carouselType, description], index): DesignProject => ({
+  ...uploadedIPs,
+  ...designSeed.filter(item => item[2] !== "poster" && item[2] !== "banner" && item[2] !== "ip-design").map(([slug, title, category, carouselType, description], index): DesignProject => ({
     id: index + 1, slug, title, category, carouselType, description, type: "design", year: "2026",
     cover: `/media/design/${slug}/cover`, selected: index < 4, demo: true,
     role: ["概念开发", "视觉指导", "视觉设计"], tools: ["Illustrator", "Photoshop"],

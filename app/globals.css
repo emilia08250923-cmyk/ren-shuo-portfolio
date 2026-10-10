@@ -431,3 +431,11 @@ body { font-family:"Geist","PingFang SC","Microsoft YaHei","Noto Sans CJK SC",sa
 .archive-grid>div:has(.uploaded-banner) { grid-column:auto; padding-top:0; }
 /* Navigation remains available throughout long work archives. */
 .site-header { position:sticky; top:0; z-index:40; }
+
+/* Uploaded IP sheets retain full composition and color. */
+.archive-grid>div .uploaded-ip.project-card { display:block; background:transparent; color:inherit; }
+.archive-grid>div .uploaded-ip .project-cover { aspect-ratio:1672/941; background:#eeeae2; }
+.archive-grid>div .uploaded-ip .project-cover img { object-fit:contain; filter:none; }
+.archive-grid>div .uploaded-ip .project-caption { padding:16px 0 14px; border-bottom:1px solid var(--line); }
+.archive-grid>div .uploaded-ip .project-caption h3 { font-size:clamp(20px,2vw,34px); }
+.archive-grid>div:has(.uploaded-ip) { grid-column:auto; padding-top:0; }
