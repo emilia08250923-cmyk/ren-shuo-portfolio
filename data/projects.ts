@@ -33,18 +33,18 @@ const designSeed = [
   ["quiet-garden", "静谧花园", "poster", "normal", "在有机形态、平面色彩与柔和对比之间寻找平衡的插画海报实验。"],
 ] as const;
 
-const uploadedPosters: DesignProject[] = [1, 2, 3, 4, 7, 8, 9, 10].map(number => ({
-  id: 100 + number, slug: `poster-${String(number).padStart(2, "0")}`, title: `海报 ${number}`,
+const uploadedPosters: DesignProject[] = [1, 2, 3, 4, 7, 8, 9, 10].map((number, index) => ({
+  id: 100 + number, slug: `poster-${String(number).padStart(2, "0")}`, title: `海报 ${index + 1}`,
   category: "poster", type: "design", year: "2026", demo: false, carouselType: "normal",
   cover: `/media/design/poster-${String(number).padStart(2, "0")}/cover`,
   description: "海报设计作品，点击图片可按原始比例放大查看。",
   role: ["海报设计"], tools: ["待补充"], process: [],
-  images: [{ base: `/media/design/poster-${String(number).padStart(2, "0")}/cover`, alt: `海报 ${number} 完整作品` }],
+  images: [{ base: `/media/design/poster-${String(number).padStart(2, "0")}/cover`, alt: `海报 ${index + 1} 完整作品` }],
 }));
 
 export const projects: Project[] = [
   ...uploadedPosters,
-  ...designSeed.map(([slug, title, category, carouselType, description], index): DesignProject => ({
+  ...designSeed.filter(item => item[2] !== "poster").map(([slug, title, category, carouselType, description], index): DesignProject => ({
     id: index + 1, slug, title, category, carouselType, description, type: "design", year: "2026",
     cover: `/media/design/${slug}/cover`, selected: index < 4, demo: true,
     role: ["概念开发", "视觉指导", "视觉设计"], tools: ["Illustrator", "Photoshop"],
