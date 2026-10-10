@@ -3,7 +3,7 @@
     "width": 1672,
     "height": 941,
     "hasAlpha": false,
-    "hash": "8d5ba92ca6ca3fba2c68b09071bb5fae7a87cdea157692dd8e3885dafcbbe679",
+    "hash": "c93828a4f87238ea241fbd01277ed3a7e7f3cfafd4a8c8114605e530f28fdcc6",
     "variants": [
       {
         "src": "/media/design/app-icon-01/cover-640.webp",
@@ -26,7 +26,7 @@
     "width": 1672,
     "height": 941,
     "hasAlpha": false,
-    "hash": "d875bc47446904bd59468408f87621f1dffc12f23a4187cb1564a6d1a791cfa8",
+    "hash": "0397dac2de39563d39351c9234879acc20d8a7335812752e5c894a51d819c27e",
     "variants": [
       {
         "src": "/media/design/app-icon-02/cover-640.webp",
@@ -49,7 +49,7 @@
     "width": 1672,
     "height": 941,
     "hasAlpha": false,
-    "hash": "ce7741974d9213d7b9be817f2ff1de09d16bd90166c0bb132c2e4a0b1c3a8a20",
+    "hash": "9203cc078806c9f459e6dd8a7c3c66b27b590cf5dc1168bfaa1f7e025765d2e9",
     "variants": [
       {
         "src": "/media/design/app-icon-03/cover-640.webp",
@@ -515,6 +515,75 @@
       },
       {
         "src": "/media/design/ip-06/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/design/launch-page-01/cover": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "8d5ba92ca6ca3fba2c68b09071bb5fae7a87cdea157692dd8e3885dafcbbe679",
+    "variants": [
+      {
+        "src": "/media/design/launch-page-01/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/launch-page-01/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/launch-page-01/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/design/launch-page-02/cover": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "d875bc47446904bd59468408f87621f1dffc12f23a4187cb1564a6d1a791cfa8",
+    "variants": [
+      {
+        "src": "/media/design/launch-page-02/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/launch-page-02/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/launch-page-02/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/design/launch-page-03/cover": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "ce7741974d9213d7b9be817f2ff1de09d16bd90166c0bb132c2e4a0b1c3a8a20",
+    "variants": [
+      {
+        "src": "/media/design/launch-page-03/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/launch-page-03/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/launch-page-03/cover-1440.webp",
         "width": 1440,
         "height": 810
       }

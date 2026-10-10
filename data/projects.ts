@@ -72,10 +72,10 @@ const uploadedApps: DesignProject[] = [1, 2, 3].map((number, index) => ({
 const uploadedLaunchPages: DesignProject[] = [1, 2, 3].map((number, index) => ({
   id: 500 + number, slug: `launch-page-${String(number).padStart(2, "0")}`, title: `启动页 ${index + 1}`,
   category: "launch-page", type: "design", year: "", demo: false, carouselType: "normal", selected: index === 0,
-  cover: `/media/design/app-icon-${String(number).padStart(2, "0")}/cover`,
+  cover: `/media/design/launch-page-${String(number).padStart(2, "0")}/cover`,
   description: "启动页设计作品，点击图片可按原始比例放大查看。",
   role: ["启动页设计"], tools: ["待补充"], process: [],
-  images: [{ base: `/media/design/app-icon-${String(number).padStart(2, "0")}/cover`, alt: `启动页 ${index + 1} 完整作品` }],
+  images: [{ base: `/media/design/launch-page-${String(number).padStart(2, "0")}/cover`, alt: `启动页 ${index + 1} 完整作品` }],
 }));
 
 export const projects: Project[] = [
