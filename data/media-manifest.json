@@ -1,0 +1,835 @@
+{
+  "/media/design/form-shift/01": {
+    "width": 1440,
+    "height": 1920,
+    "hasAlpha": true,
+    "hash": "5e082bafc8534be2c8c7a44666736dfa213a252f0ffbf98dcc1e71963285ec23",
+    "variants": [
+      {
+        "src": "/media/design/form-shift/01-640.webp",
+        "width": 640,
+        "height": 853
+      },
+      {
+        "src": "/media/design/form-shift/01-960.webp",
+        "width": 960,
+        "height": 1280
+      },
+      {
+        "src": "/media/design/form-shift/01-1440.webp",
+        "width": 1440,
+        "height": 1920
+      }
+    ]
+  },
+  "/media/design/form-shift/02": {
+    "width": 1920,
+    "height": 1440,
+    "hasAlpha": true,
+    "hash": "ec63bbedb794b3d7eebc239c1ce7398d9c789ebe0882e92314bcb60f4e684533",
+    "variants": [
+      {
+        "src": "/media/design/form-shift/02-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/design/form-shift/02-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/design/form-shift/02-1440.webp",
+        "width": 1440,
+        "height": 1080
+      },
+      {
+        "src": "/media/design/form-shift/02-1920.webp",
+        "width": 1920,
+        "height": 1440
+      }
+    ]
+  },
+  "/media/design/form-shift/03": {
+    "width": 1920,
+    "height": 1080,
+    "hasAlpha": true,
+    "hash": "712bcb8118071215110cc6641f03b0d71e2ed5312037f4842cd07c2d9ed59e87",
+    "variants": [
+      {
+        "src": "/media/design/form-shift/03-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/form-shift/03-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/form-shift/03-1440.webp",
+        "width": 1440,
+        "height": 810
+      },
+      {
+        "src": "/media/design/form-shift/03-1920.webp",
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/design/form-shift/cover": {
+    "width": 1920,
+    "height": 1440,
+    "hasAlpha": true,
+    "hash": "e48e8f75a77fdcfc865ddc6161ce838d7502d4ad51906cd24225289117aea36e",
+    "variants": [
+      {
+        "src": "/media/design/form-shift/cover-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/design/form-shift/cover-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/design/form-shift/cover-1440.webp",
+        "width": 1440,
+        "height": 1080
+      },
+      {
+        "src": "/media/design/form-shift/cover-1920.webp",
+        "width": 1920,
+        "height": 1440
+      }
+    ]
+  },
+  "/media/design/new-perspectives/01": {
+    "width": 1440,
+    "height": 1920,
+    "hasAlpha": true,
+    "hash": "72e1a164d9c96f526b48b0362abacfe6177f9f592b9ab5635a48e5d230bfed0e",
+    "variants": [
+      {
+        "src": "/media/design/new-perspectives/01-640.webp",
+        "width": 640,
+        "height": 853
+      },
+      {
+        "src": "/media/design/new-perspectives/01-960.webp",
+        "width": 960,
+        "height": 1280
+      },
+      {
+        "src": "/media/design/new-perspectives/01-1440.webp",
+        "width": 1440,
+        "height": 1920
+      }
+    ]
+  },
+  "/media/design/new-perspectives/02": {
+    "width": 1920,
+    "height": 1440,
+    "hasAlpha": true,
+    "hash": "30b2179f22ec18c993cfd2a7d0ef936a63e0f9746bba8c8feeece307261ce000",
+    "variants": [
+      {
+        "src": "/media/design/new-perspectives/02-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/design/new-perspectives/02-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/design/new-perspectives/02-1440.webp",
+        "width": 1440,
+        "height": 1080
+      },
+      {
+        "src": "/media/design/new-perspectives/02-1920.webp",
+        "width": 1920,
+        "height": 1440
+      }
+    ]
+  },
+  "/media/design/new-perspectives/03": {
+    "width": 1920,
+    "height": 1080,
+    "hasAlpha": true,
+    "hash": "be12ad9704b4d9603879a239f5e7e0643bac225a29a1fc9f6109c52390ff5abf",
+    "variants": [
+      {
+        "src": "/media/design/new-perspectives/03-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/new-perspectives/03-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/new-perspectives/03-1440.webp",
+        "width": 1440,
+        "height": 810
+      },
+      {
+        "src": "/media/design/new-perspectives/03-1920.webp",
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/design/new-perspectives/cover": {
+    "width": 1920,
+    "height": 1440,
+    "hasAlpha": true,
+    "hash": "eada3ab8e5ff82ce4e1d219319d7dd2e29cfe14b923d5ca5314b207fccd36ee2",
+    "variants": [
+      {
+        "src": "/media/design/new-perspectives/cover-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/design/new-perspectives/cover-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/design/new-perspectives/cover-1440.webp",
+        "width": 1440,
+        "height": 1080
+      },
+      {
+        "src": "/media/design/new-perspectives/cover-1920.webp",
+        "width": 1920,
+        "height": 1440
+      }
+    ]
+  },
+  "/media/design/objects-of-tomorrow/01": {
+    "width": 1440,
+    "height": 1920,
+    "hasAlpha": true,
+    "hash": "a5b50bd13aa840bbeca0cb8c480226ff07d87198534bb9d3a5bde5db857b5115",
+    "variants": [
+      {
+        "src": "/media/design/objects-of-tomorrow/01-640.webp",
+        "width": 640,
+        "height": 853
+      },
+      {
+        "src": "/media/design/objects-of-tomorrow/01-960.webp",
+        "width": 960,
+        "height": 1280
+      },
+      {
+        "src": "/media/design/objects-of-tomorrow/01-1440.webp",
+        "width": 1440,
+        "height": 1920
+      }
+    ]
+  },
+  "/media/design/objects-of-tomorrow/02": {
+    "width": 1920,
+    "height": 1440,
+    "hasAlpha": true,
+    "hash": "7d4abf52b29b413131729146f1a0d6e9485aa436d13f9b46fcd0907a1ad07c1e",
+    "variants": [
+      {
+        "src": "/media/design/objects-of-tomorrow/02-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/design/objects-of-tomorrow/02-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/design/objects-of-tomorrow/02-1440.webp",
+        "width": 1440,
+        "height": 1080
+      },
+      {
+        "src": "/media/design/objects-of-tomorrow/02-1920.webp",
+        "width": 1920,
+        "height": 1440
+      }
+    ]
+  },
+  "/media/design/objects-of-tomorrow/03": {
+    "width": 1920,
+    "height": 1080,
+    "hasAlpha": true,
+    "hash": "cca60974146ccc9a83eb0eef9e284926b26d8e670c6f6e203b3528a11eb739fa",
+    "variants": [
+      {
+        "src": "/media/design/objects-of-tomorrow/03-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/objects-of-tomorrow/03-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/objects-of-tomorrow/03-1440.webp",
+        "width": 1440,
+        "height": 810
+      },
+      {
+        "src": "/media/design/objects-of-tomorrow/03-1920.webp",
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/design/objects-of-tomorrow/cover": {
+    "width": 1920,
+    "height": 1440,
+    "hasAlpha": true,
+    "hash": "432e55f75dce465082b5f52db56c46430ce40efa2d61afeb215c195dc656637a",
+    "variants": [
+      {
+        "src": "/media/design/objects-of-tomorrow/cover-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/design/objects-of-tomorrow/cover-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/design/objects-of-tomorrow/cover-1440.webp",
+        "width": 1440,
+        "height": 1080
+      },
+      {
+        "src": "/media/design/objects-of-tomorrow/cover-1920.webp",
+        "width": 1920,
+        "height": 1440
+      }
+    ]
+  },
+  "/media/design/open-form/01": {
+    "width": 1440,
+    "height": 1920,
+    "hasAlpha": true,
+    "hash": "4e1a3a3e95256bb101d706ea7cb72ec8a14c6431a59f45fef45d5fa0f44cc162",
+    "variants": [
+      {
+        "src": "/media/design/open-form/01-640.webp",
+        "width": 640,
+        "height": 853
+      },
+      {
+        "src": "/media/design/open-form/01-960.webp",
+        "width": 960,
+        "height": 1280
+      },
+      {
+        "src": "/media/design/open-form/01-1440.webp",
+        "width": 1440,
+        "height": 1920
+      }
+    ]
+  },
+  "/media/design/open-form/02": {
+    "width": 1920,
+    "height": 1440,
+    "hasAlpha": true,
+    "hash": "9a56d6c36e15d1c4466540adf2712dea0dc2b0ff630f88a18d614dac2a89ab06",
+    "variants": [
+      {
+        "src": "/media/design/open-form/02-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/design/open-form/02-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/design/open-form/02-1440.webp",
+        "width": 1440,
+        "height": 1080
+      },
+      {
+        "src": "/media/design/open-form/02-1920.webp",
+        "width": 1920,
+        "height": 1440
+      }
+    ]
+  },
+  "/media/design/open-form/03": {
+    "width": 1920,
+    "height": 1080,
+    "hasAlpha": true,
+    "hash": "55344ad4c35bb2575a80f566bcc633a31380589f562a776ca1ae4eb7ed4c7f89",
+    "variants": [
+      {
+        "src": "/media/design/open-form/03-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/open-form/03-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/open-form/03-1440.webp",
+        "width": 1440,
+        "height": 810
+      },
+      {
+        "src": "/media/design/open-form/03-1920.webp",
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/design/open-form/cover": {
+    "width": 1920,
+    "height": 1440,
+    "hasAlpha": true,
+    "hash": "da782616a8888057d2c7154414714190b4fcc5a7354763f3d7e547db71e8b2e8",
+    "variants": [
+      {
+        "src": "/media/design/open-form/cover-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/design/open-form/cover-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/design/open-form/cover-1440.webp",
+        "width": 1440,
+        "height": 1080
+      },
+      {
+        "src": "/media/design/open-form/cover-1920.webp",
+        "width": 1920,
+        "height": 1440
+      }
+    ]
+  },
+  "/media/design/quiet-garden/01": {
+    "width": 1440,
+    "height": 1920,
+    "hasAlpha": true,
+    "hash": "6fbb8fe47385a3f1dac0d233470627329bd273b05b6c79ab22c149990f12afce",
+    "variants": [
+      {
+        "src": "/media/design/quiet-garden/01-640.webp",
+        "width": 640,
+        "height": 853
+      },
+      {
+        "src": "/media/design/quiet-garden/01-960.webp",
+        "width": 960,
+        "height": 1280
+      },
+      {
+        "src": "/media/design/quiet-garden/01-1440.webp",
+        "width": 1440,
+        "height": 1920
+      }
+    ]
+  },
+  "/media/design/quiet-garden/02": {
+    "width": 1920,
+    "height": 1440,
+    "hasAlpha": true,
+    "hash": "ebabd87db4343d927aa74628f564049a4ec24f8426d396c443d8fbf2fa878071",
+    "variants": [
+      {
+        "src": "/media/design/quiet-garden/02-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/design/quiet-garden/02-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/design/quiet-garden/02-1440.webp",
+        "width": 1440,
+        "height": 1080
+      },
+      {
+        "src": "/media/design/quiet-garden/02-1920.webp",
+        "width": 1920,
+        "height": 1440
+      }
+    ]
+  },
+  "/media/design/quiet-garden/03": {
+    "width": 1920,
+    "height": 1080,
+    "hasAlpha": true,
+    "hash": "a1c772e2eaa15e8faedfca90f13ffb7ce8e5e3e0ac9b40c0be56c32e2148ece2",
+    "variants": [
+      {
+        "src": "/media/design/quiet-garden/03-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/quiet-garden/03-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/quiet-garden/03-1440.webp",
+        "width": 1440,
+        "height": 810
+      },
+      {
+        "src": "/media/design/quiet-garden/03-1920.webp",
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/design/quiet-garden/cover": {
+    "width": 1920,
+    "height": 1440,
+    "hasAlpha": true,
+    "hash": "945caac603f0fa2493433f8ea75403e6d67596ed8e726aa59f6c8148fd025787",
+    "variants": [
+      {
+        "src": "/media/design/quiet-garden/cover-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/design/quiet-garden/cover-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/design/quiet-garden/cover-1440.webp",
+        "width": 1440,
+        "height": 1080
+      },
+      {
+        "src": "/media/design/quiet-garden/cover-1920.webp",
+        "width": 1920,
+        "height": 1440
+      }
+    ]
+  },
+  "/media/design/soft-signal/01": {
+    "width": 1440,
+    "height": 1920,
+    "hasAlpha": true,
+    "hash": "874061f332193a735b18cf1227146d38e6d5c6e0db72a2a6e2244ab8c81d29d1",
+    "variants": [
+      {
+        "src": "/media/design/soft-signal/01-640.webp",
+        "width": 640,
+        "height": 853
+      },
+      {
+        "src": "/media/design/soft-signal/01-960.webp",
+        "width": 960,
+        "height": 1280
+      },
+      {
+        "src": "/media/design/soft-signal/01-1440.webp",
+        "width": 1440,
+        "height": 1920
+      }
+    ]
+  },
+  "/media/design/soft-signal/02": {
+    "width": 1920,
+    "height": 1440,
+    "hasAlpha": true,
+    "hash": "3bfc146ddd918747c914ddcdd490024f09d4504ebe5eb64c0ec905ed2b3ac0ba",
+    "variants": [
+      {
+        "src": "/media/design/soft-signal/02-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/design/soft-signal/02-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/design/soft-signal/02-1440.webp",
+        "width": 1440,
+        "height": 1080
+      },
+      {
+        "src": "/media/design/soft-signal/02-1920.webp",
+        "width": 1920,
+        "height": 1440
+      }
+    ]
+  },
+  "/media/design/soft-signal/03": {
+    "width": 1920,
+    "height": 1080,
+    "hasAlpha": true,
+    "hash": "6be5231f691346e0be1d1e9463e548a2bbf0eca2d8df1e732981a8128c60c3cf",
+    "variants": [
+      {
+        "src": "/media/design/soft-signal/03-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/soft-signal/03-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/soft-signal/03-1440.webp",
+        "width": 1440,
+        "height": 810
+      },
+      {
+        "src": "/media/design/soft-signal/03-1920.webp",
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/design/soft-signal/cover": {
+    "width": 1920,
+    "height": 1440,
+    "hasAlpha": true,
+    "hash": "023d3665ac0ebea27e0c70e458b9e730a3f19f6482663cceaceaf33368534c9c",
+    "variants": [
+      {
+        "src": "/media/design/soft-signal/cover-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/design/soft-signal/cover-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/design/soft-signal/cover-1440.webp",
+        "width": 1440,
+        "height": 1080
+      },
+      {
+        "src": "/media/design/soft-signal/cover-1920.webp",
+        "width": 1920,
+        "height": 1440
+      }
+    ]
+  },
+  "/media/design/type-in-motion/01": {
+    "width": 1440,
+    "height": 1920,
+    "hasAlpha": true,
+    "hash": "1b6ab079f4280fb84cf82cc59fbefe31ab96e83d8377de65b718dd8c4234f73f",
+    "variants": [
+      {
+        "src": "/media/design/type-in-motion/01-640.webp",
+        "width": 640,
+        "height": 853
+      },
+      {
+        "src": "/media/design/type-in-motion/01-960.webp",
+        "width": 960,
+        "height": 1280
+      },
+      {
+        "src": "/media/design/type-in-motion/01-1440.webp",
+        "width": 1440,
+        "height": 1920
+      }
+    ]
+  },
+  "/media/design/type-in-motion/02": {
+    "width": 1920,
+    "height": 1440,
+    "hasAlpha": true,
+    "hash": "781f6648de381160056d17f326e8d5c96b5f95d66efb310f0151bdd836a29f61",
+    "variants": [
+      {
+        "src": "/media/design/type-in-motion/02-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/design/type-in-motion/02-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/design/type-in-motion/02-1440.webp",
+        "width": 1440,
+        "height": 1080
+      },
+      {
+        "src": "/media/design/type-in-motion/02-1920.webp",
+        "width": 1920,
+        "height": 1440
+      }
+    ]
+  },
+  "/media/design/type-in-motion/03": {
+    "width": 1920,
+    "height": 1080,
+    "hasAlpha": true,
+    "hash": "258fdb65b9328c637cb82f8c2f22190ed8cabe2429b50e2e81fe60fb45f478aa",
+    "variants": [
+      {
+        "src": "/media/design/type-in-motion/03-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/type-in-motion/03-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/type-in-motion/03-1440.webp",
+        "width": 1440,
+        "height": 810
+      },
+      {
+        "src": "/media/design/type-in-motion/03-1920.webp",
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/design/type-in-motion/cover": {
+    "width": 1920,
+    "height": 1440,
+    "hasAlpha": true,
+    "hash": "c83e146b0ee68be42b4238300784562cec8c4827baf57e549cd2aa664130bb16",
+    "variants": [
+      {
+        "src": "/media/design/type-in-motion/cover-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/design/type-in-motion/cover-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/design/type-in-motion/cover-1440.webp",
+        "width": 1440,
+        "height": 1080
+      },
+      {
+        "src": "/media/design/type-in-motion/cover-1920.webp",
+        "width": 1920,
+        "height": 1440
+      }
+    ]
+  },
+  "/media/video/after-hours/cover": {
+    "width": 1920,
+    "height": 1080,
+    "hasAlpha": true,
+    "hash": "42f4875b7418c6342a54a3e2330e086f6b9e54b8221111b08efc5a96e1f6b83e",
+    "variants": [
+      {
+        "src": "/media/video/after-hours/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/after-hours/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/after-hours/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      },
+      {
+        "src": "/media/video/after-hours/cover-1920.webp",
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/beyond-the-frame/cover": {
+    "width": 1920,
+    "height": 1080,
+    "hasAlpha": true,
+    "hash": "93e10389b8a398d8197bb459d225dd48fa55717060f8e5d7621f1d0babdf64fb",
+    "variants": [
+      {
+        "src": "/media/video/beyond-the-frame/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/beyond-the-frame/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/beyond-the-frame/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      },
+      {
+        "src": "/media/video/beyond-the-frame/cover-1920.webp",
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/parallel-worlds/cover": {
+    "width": 1920,
+    "height": 1080,
+    "hasAlpha": true,
+    "hash": "c3d90b7684491e8c3a3677c1b4181587c131d4b04c59a0fae8e801b3f1b4e0a6",
+    "variants": [
+      {
+        "src": "/media/video/parallel-worlds/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/parallel-worlds/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/parallel-worlds/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      },
+      {
+        "src": "/media/video/parallel-worlds/cover-1920.webp",
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  }
+}
