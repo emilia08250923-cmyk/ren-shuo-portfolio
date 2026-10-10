@@ -9,9 +9,9 @@ export type VideoProject = BaseProject & { type: "video"; duration: string; bili
 export type Project = DesignProject | VideoProject;
 
 export const designCategories = [
-  { id: "all", label: "全部" }, { id: "poster", label: "海报" }, { id: "banner", label: "横幅设计" },
-  { id: "ip-design", label: "角色设计" }, { id: "brand-identity", label: "品牌视觉识别" },
-  { id: "launch-page", label: "专题页面" }, { id: "typography", label: "字体设计" }, { id: "illustration", label: "插画" },
+  { id: "all", label: "全部" }, { id: "poster", label: "海报" }, { id: "banner", label: "Banner" },
+  { id: "ip-design", label: "IP" }, { id: "app-icon", label: "App 图标" },
+  { id: "launch-page", label: "启动页" }, { id: "typography", label: "字体设计" },
 ];
 export const videoCategories = [
   { id: "all", label: "全部" }, { id: "comic-drama", label: "漫剧" },
@@ -25,12 +25,12 @@ export function categoryLabel(project: Pick<Project, "type" | "category">) {
 
 const designSeed = [
   ["form-shift", "形态转换", "poster", "normal", "一组编辑风格海报实验，探索大字号、几何形态与留白之间的张力。"],
-  ["objects-of-tomorrow", "未来物件", "brand-identity", "showcase", "以日常物件为起点，构建鲜明且灵活的字体语言与概念品牌系统。"],
+  ["objects-of-tomorrow", "未来物件", "app-icon", "showcase", "以日常物件与几何形态为起点，探索鲜明、简洁且易于识别的 App 图标视觉方向。"],
   ["soft-signal", "柔和信号", "ip-design", "showcase", "以角色为核心，探索柔和几何、亲切轮廓与富有趣味的视觉识别。"],
   ["type-in-motion", "文字律动", "typography", "normal", "通过节奏与重复，让文字本身成为视觉材料的字体实验。"],
   ["new-perspectives", "全新视角", "banner", "normal", "以模块化方式，将同一视觉创意延展至横向与纵向构图。"],
   ["open-form", "开放形态", "launch-page", "normal", "运用清晰网格、大标题和有序节奏，探索数字界面的视觉方向。"],
-  ["quiet-garden", "静谧花园", "illustration", "normal", "在有机形态、平面色彩与柔和对比之间寻找平衡的插画实验。"],
+  ["quiet-garden", "静谧花园", "poster", "normal", "在有机形态、平面色彩与柔和对比之间寻找平衡的插画海报实验。"],
 ] as const;
 
 export const projects: Project[] = [
