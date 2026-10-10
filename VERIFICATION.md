@@ -17,3 +17,9 @@
 The current artwork, biography, tools list, and resume are labelled examples/templates. Actual work history, education, portrait, real PDF resume, and Bilibili video links have not been supplied. Real Bilibili playback cannot be verified until a valid project link is added. The contact form prepares an email draft; the reserved delivery API explicitly returns 501 until a mail provider is configured.
 
 The checks are functional and layout checks, not a production Lighthouse/Core Web Vitals score.
+
+## Stitch revision — 2026-10-10
+
+All seven reference PNGs (2560px wide) and HTML files downloaded and inspected. Applied the reference editorial system across all page types; see STITCH-DESIGN.md.
+
+TypeScript, ESLint, content/media tests and Vinext build passed. Browser regression checks passed at 2560/1920/1440/1280/1024/768/390/320px, with no page overflow or runtime errors. Filters, empty state, carousel arrows/keyboard/drag/touch, expansion/Escape, next project, mobile menu, form validation and resume download passed. Fixed long project-title wrapping at 320px. Desktop and phone screenshots visually reviewed.
