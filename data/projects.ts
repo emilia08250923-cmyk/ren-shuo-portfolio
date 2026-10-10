@@ -42,9 +42,19 @@ const uploadedPosters: DesignProject[] = [1, 2, 3, 4, 7, 8, 9, 10].map((number, 
   images: [{ base: `/media/design/poster-${String(number).padStart(2, "0")}/cover`, alt: `海报 ${index + 1} 完整作品` }],
 }));
 
+const uploadedBanners: DesignProject[] = [1, 2, 3, 4, 6, 7, 8, 9].map((number, index) => ({
+  id: 200 + number, slug: `banner-${String(number).padStart(2, "0")}`, title: `Banner ${index + 1}`,
+  category: "banner", type: "design", year: "2026", demo: false, carouselType: "normal",
+  cover: `/media/design/banner-${String(number).padStart(2, "0")}/cover`,
+  description: "Banner 设计作品，点击图片可按原始比例放大查看。",
+  role: ["Banner 设计"], tools: ["待补充"], process: [],
+  images: [{ base: `/media/design/banner-${String(number).padStart(2, "0")}/cover`, alt: `Banner ${index + 1} 完整作品` }],
+}));
+
 export const projects: Project[] = [
   ...uploadedPosters,
-  ...designSeed.filter(item => item[2] !== "poster").map(([slug, title, category, carouselType, description], index): DesignProject => ({
+  ...uploadedBanners,
+  ...designSeed.filter(item => item[2] !== "poster" && item[2] !== "banner").map(([slug, title, category, carouselType, description], index): DesignProject => ({
     id: index + 1, slug, title, category, carouselType, description, type: "design", year: "2026",
     cover: `/media/design/${slug}/cover`, selected: index < 4, demo: true,
     role: ["概念开发", "视觉指导", "视觉设计"], tools: ["Illustrator", "Photoshop"],

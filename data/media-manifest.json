@@ -1,4 +1,188 @@
 {
+  "/media/design/banner-01/cover": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "fc55124a87f4a3e967520ccfd91078a323e82f7fcb0166cbe507088483784809",
+    "variants": [
+      {
+        "src": "/media/design/banner-01/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/banner-01/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/banner-01/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/design/banner-02/cover": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "9c98736408df62e907f9c1119d74eb5c70c7bf21a11235a11b2c6f2aae94be16",
+    "variants": [
+      {
+        "src": "/media/design/banner-02/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/banner-02/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/banner-02/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/design/banner-03/cover": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "87c94a27d9b8b01578c130fe5e7f0d007a7d551732786447dcdc1c2c87da6def",
+    "variants": [
+      {
+        "src": "/media/design/banner-03/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/banner-03/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/banner-03/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/design/banner-04/cover": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "e8983c7f0dd0e0ff4a79490bb144e11685e596e06467ad5d00aa1be38225cd02",
+    "variants": [
+      {
+        "src": "/media/design/banner-04/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/banner-04/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/banner-04/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/design/banner-06/cover": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "6eb1e0254d3071c732a70be3247fd4a35b1960ad76c5bb1bcce37a33289e5bd3",
+    "variants": [
+      {
+        "src": "/media/design/banner-06/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/banner-06/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/banner-06/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/design/banner-07/cover": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "7c1cd181e55be07fd53feaeee3ed46e335f8cd13c8b727eccdffe251be91999d",
+    "variants": [
+      {
+        "src": "/media/design/banner-07/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/banner-07/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/banner-07/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/design/banner-08/cover": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "d544e8c2a7b2dbbe010437070977304380020d7d634c6fdd63f88610b5ada658",
+    "variants": [
+      {
+        "src": "/media/design/banner-08/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/banner-08/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/banner-08/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/design/banner-09/cover": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "07fd12a0b98b0a2dcd730319b6e8b5974d3a4d911a36271b21b58aa2834dc36b",
+    "variants": [
+      {
+        "src": "/media/design/banner-09/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/banner-09/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/banner-09/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
   "/media/design/form-shift/01": {
     "width": 1440,
     "height": 1920,
