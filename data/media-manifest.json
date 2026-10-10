@@ -1,4 +1,96 @@
 {
+  "/media/design/app-icon-01/cover": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "8d5ba92ca6ca3fba2c68b09071bb5fae7a87cdea157692dd8e3885dafcbbe679",
+    "variants": [
+      {
+        "src": "/media/design/app-icon-01/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/app-icon-01/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/app-icon-01/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/design/app-icon-02/cover": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "d875bc47446904bd59468408f87621f1dffc12f23a4187cb1564a6d1a791cfa8",
+    "variants": [
+      {
+        "src": "/media/design/app-icon-02/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/app-icon-02/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/app-icon-02/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/design/app-icon-03/cover": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "ce7741974d9213d7b9be817f2ff1de09d16bd90166c0bb132c2e4a0b1c3a8a20",
+    "variants": [
+      {
+        "src": "/media/design/app-icon-03/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/app-icon-03/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/app-icon-03/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/design/app-icon-04/cover": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "ee9d17aa02a464e2f19c4ddee1895ad746575bc730f4b14f3934d11c29fdf1ba",
+    "variants": [
+      {
+        "src": "/media/design/app-icon-04/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/app-icon-04/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/app-icon-04/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
   "/media/design/banner-01/cover": {
     "width": 1672,
     "height": 941,
