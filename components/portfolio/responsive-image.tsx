@@ -6,7 +6,7 @@ export function ResponsiveImage({ base, alt, sizes = "(max-width: 767px) 100vw, 
   base: string; alt: string; sizes?: string; priority?: boolean; className?: string; contain?: boolean;
 }) {
   const asset = mediaAsset(base);
-  if (!asset) return <div className={`missing-media ${className}`} role="img" aria-label={alt}><span>Image not added</span></div>;
+  if (!asset) return <div className={`missing-media ${className}`} role="img" aria-label={alt}><span>暂未添加图片</span></div>;
   const mobile = asset.variants.filter(v => v.width <= 960);
   const srcSet = asset.variants.map(v => `${v.src} ${v.width}w`).join(", ");
   // Vinext's custom Image loader currently emits only one URL. Native picture

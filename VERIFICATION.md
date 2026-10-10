@@ -23,3 +23,9 @@ The checks are functional and layout checks, not a production Lighthouse/Core We
 All seven reference PNGs (2560px wide) and HTML files downloaded and inspected. Applied the reference editorial system across all page types; see STITCH-DESIGN.md.
 
 TypeScript, ESLint, content/media tests and Vinext build passed. Browser regression checks passed at 2560/1920/1440/1280/1024/768/390/320px, with no page overflow or runtime errors. Filters, empty state, carousel arrows/keyboard/drag/touch, expansion/Escape, next project, mobile menu, form validation and resume download passed. Fixed long project-title wrapping at 320px. Desktop and phone screenshots visually reviewed.
+
+## Simplified Chinese revision — 2026-10-10
+
+Localized navigation, page headings, project titles/descriptions/categories/process, form labels/status/mail drafts, accessibility labels and SEO metadata. Document language is zh-CN. Localized the generated concept-art text and optimized all 31 source images. Brand and software names retain their established names. Added system Chinese font fallbacks and adapted headline line-height/size.
+
+Chinese browser regression passed across 320–2560px, all checked routes and existing interactions. Browser text audit found only intended brand/software/platform names and PDF/email identifiers. No runtime errors.

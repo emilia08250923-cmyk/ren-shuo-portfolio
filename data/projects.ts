@@ -9,53 +9,53 @@ export type VideoProject = BaseProject & { type: "video"; duration: string; bili
 export type Project = DesignProject | VideoProject;
 
 export const designCategories = [
-  { id: "all", label: "All" }, { id: "poster", label: "Poster" }, { id: "banner", label: "Banner" },
-  { id: "ip-design", label: "IP Design" }, { id: "brand-identity", label: "VI / Brand Identity" },
-  { id: "launch-page", label: "Launch Page" }, { id: "typography", label: "Typography" }, { id: "illustration", label: "Illustration" },
+  { id: "all", label: "全部" }, { id: "poster", label: "海报" }, { id: "banner", label: "横幅设计" },
+  { id: "ip-design", label: "角色设计" }, { id: "brand-identity", label: "品牌视觉识别" },
+  { id: "launch-page", label: "专题页面" }, { id: "typography", label: "字体设计" }, { id: "illustration", label: "插画" },
 ];
 export const videoCategories = [
-  { id: "all", label: "All" }, { id: "comic-drama", label: "Comic Drama" },
-  { id: "ai-live-action", label: "AI Live-action Drama" }, { id: "tvc", label: "TVC" },
-  { id: "game-promo", label: "Game Promo" }, { id: "promotion", label: "Promotion / Seeding" },
-  { id: "short-film", label: "Short Film" }, { id: "entertainment", label: "Entertainment Short Video" },
+  { id: "all", label: "全部" }, { id: "comic-drama", label: "漫剧" },
+  { id: "ai-live-action", label: "人工智能真人短剧" }, { id: "tvc", label: "电视广告" },
+  { id: "game-promo", label: "游戏宣传片" }, { id: "promotion", label: "推广与种草" },
+  { id: "short-film", label: "短片" }, { id: "entertainment", label: "娱乐短视频" },
 ];
 export function categoryLabel(project: Pick<Project, "type" | "category">) {
   return (project.type === "design" ? designCategories : videoCategories).find(c => c.id === project.category)?.label ?? project.category;
 }
 
 const designSeed = [
-  ["form-shift", "Form / Shift", "poster", "normal", "An editorial poster study exploring tension between oversized type, geometric forms, and negative space."],
-  ["objects-of-tomorrow", "Objects of Tomorrow", "brand-identity", "showcase", "A concept identity system built around everyday objects and a confident, adaptable typographic language."],
-  ["soft-signal", "Soft Signal", "ip-design", "showcase", "A character-led visual study of soft geometry, friendly silhouettes, and a playful identity system."],
-  ["type-in-motion", "Type in Motion", "typography", "normal", "A typographic exploration of rhythm and repetition, where the written word becomes a visual material."],
-  ["new-perspectives", "New Perspectives", "banner", "normal", "A modular campaign study connecting a single visual idea across wide and tall compositions."],
-  ["open-form", "Open Form", "launch-page", "normal", "A digital art-direction concept using a clear grid, oversized headlines, and a deliberate visual rhythm."],
-  ["quiet-garden", "Quiet Garden", "illustration", "normal", "An illustration study balancing organic forms, flat color, and gentle contrasts."],
+  ["form-shift", "形态转换", "poster", "normal", "一组编辑风格海报实验，探索大字号、几何形态与留白之间的张力。"],
+  ["objects-of-tomorrow", "未来物件", "brand-identity", "showcase", "以日常物件为起点，构建鲜明且灵活的字体语言与概念品牌系统。"],
+  ["soft-signal", "柔和信号", "ip-design", "showcase", "以角色为核心，探索柔和几何、亲切轮廓与富有趣味的视觉识别。"],
+  ["type-in-motion", "文字律动", "typography", "normal", "通过节奏与重复，让文字本身成为视觉材料的字体实验。"],
+  ["new-perspectives", "全新视角", "banner", "normal", "以模块化方式，将同一视觉创意延展至横向与纵向构图。"],
+  ["open-form", "开放形态", "launch-page", "normal", "运用清晰网格、大标题和有序节奏，探索数字界面的视觉方向。"],
+  ["quiet-garden", "静谧花园", "illustration", "normal", "在有机形态、平面色彩与柔和对比之间寻找平衡的插画实验。"],
 ] as const;
 
 export const projects: Project[] = [
   ...designSeed.map(([slug, title, category, carouselType, description], index): DesignProject => ({
     id: index + 1, slug, title, category, carouselType, description, type: "design", year: "2026",
     cover: `/media/design/${slug}/cover`, selected: index < 4, demo: true,
-    role: ["Concept development", "Art direction", "Visual design"], tools: ["Illustrator", "Photoshop"],
-    images: ["01", "02", "03"].map((name, i) => ({ base: `/media/design/${slug}/${name}`, alt: `${title} — concept composition ${i + 1}` })),
+    role: ["概念开发", "视觉指导", "视觉设计"], tools: ["Illustrator", "Photoshop"],
+    images: ["01", "02", "03"].map((name, i) => ({ base: `/media/design/${slug}/${name}`, alt: `${title} — 概念构图 ${i + 1}` })),
     process: [
-      { title: "Direction", text: "Start with a focused visual question and establish a typographic and color direction." },
-      { title: "Exploration", text: "Test scale, spacing, and composition across a range of formats." },
-      { title: "System", text: "Bring the strongest elements together as a coherent visual language." },
+      { title: "创作方向", text: "从明确的视觉问题出发，确定字体与色彩方向。" },
+      { title: "视觉探索", text: "在不同尺寸与媒介中，测试比例、间距和构图。" },
+      { title: "视觉系统", text: "整合最有表现力的元素，形成统一的视觉语言。" },
     ],
   })),
   ...[
-    { slug: "after-hours", title: "After Hours", category: "short-film", description: "A film concept exploring the atmosphere of a city after dark." },
-    { slug: "beyond-the-frame", title: "Beyond the Frame", category: "tvc", description: "A commercial concept built around the interplay of light, form, and movement." },
-    { slug: "parallel-worlds", title: "Parallel Worlds", category: "ai-live-action", description: "An AI film concept examining unfamiliar worlds through a cinematic lens." },
+    { slug: "after-hours", title: "夜幕之后", category: "short-film", description: "探索城市入夜后氛围与情绪的短片概念。" },
+    { slug: "beyond-the-frame", title: "画面之外", category: "tvc", description: "围绕光影、形态与运动关系展开的商业影像概念。" },
+    { slug: "parallel-worlds", title: "平行世界", category: "ai-live-action", description: "通过电影视角探索陌生世界的人工智能影像概念。" },
   ].map((item, index): VideoProject => ({
     ...item, id: 20 + index, type: "video", year: "2026", duration: "—", demo: true, selected: index < 2,
-    cover: `/media/video/${item.slug}/cover`, bilibiliUrl: "", role: ["Concept", "Direction", "Editing"], tools: ["Premiere Pro", "After Effects"],
+    cover: `/media/video/${item.slug}/cover`, bilibiliUrl: "", role: ["概念策划", "创作方向", "剪辑"], tools: ["Premiere Pro", "After Effects"],
     process: [
-      { title: "Story", text: "Define the central idea, emotional tone, and narrative structure." },
-      { title: "Production", text: "Develop a storyboard and visual references before moving into production." },
-      { title: "Post-production", text: "Shape the rhythm through editing, sound, and color." },
+      { title: "故事构思", text: "明确核心创意、情绪基调与叙事结构。" },
+      { title: "制作", text: "先建立分镜与视觉参考，再推进制作。" },
+      { title: "后期制作", text: "通过剪辑、声音与调色塑造影像节奏。" },
     ],
   })),
 ];

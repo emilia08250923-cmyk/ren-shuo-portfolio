@@ -1,12 +1,12 @@
 export const profile = {
   name: "Foldcraft",
-  role: "Visual Designer & Video Creator",
-  tagline: "Design · Motion · Storytelling · Creative Production",
+  role: "视觉设计师与视频创作者",
+  tagline: "视觉设计 · 动态影像 · 故事表达 · 创意制作",
   email: "3067382469@qq.com",
   phone: "",
   wechat: "",
-  location: "Open to creative opportunities",
-  bio: "I work where visual design meets moving image — exploring how identity, typography, and storytelling can turn an idea into something people feel.",
+  location: "期待创意合作与工作机会",
+  bio: "我在视觉设计与动态影像的交汇处展开创作，探索如何通过品牌、字体与叙事，将想法转化为可被感知的视觉体验。",
   bioIsDraft: true,
   portrait: "",
   resume: "/resume/foldcraft-resume-template.pdf",
@@ -15,16 +15,16 @@ export const profile = {
   showreel: { cover: "/media/video/after-hours/cover", bilibiliUrl: "", bvid: "", cid: "" },
   experience: [] as { company: string; position: string; year: string; description: string }[],
   education: [] as { school: string; major: string; year: string }[],
-  tools: ["Photoshop", "Illustrator", "After Effects", "Premiere Pro", "Figma", "AIGC workflows"],
+  tools: ["Photoshop", "Illustrator", "After Effects", "Premiere Pro", "Figma", "人工智能创作流程"],
   socials: [
     { label: "LinkedIn", url: "" }, { label: "Behance", url: "" },
-    { label: "Bilibili", url: "" }, { label: "Xiaohongshu", url: "" },
+    { label: "哔哩哔哩", url: "" }, { label: "小红书", url: "" },
   ],
 };
 
 export const capabilities = {
-  design: ["Poster", "Banner", "IP Design", "VI / Brand Identity", "Launch Page", "Typography", "Illustration"],
-  video: ["Comic Drama", "AI Live-action Drama", "TVC", "Game Promo", "Promotion / Seeding", "Short Film", "Entertainment Short Video"],
+  design: ["海报", "横幅设计", "角色设计", "品牌视觉识别", "专题页面", "字体设计", "插画"],
+  video: ["漫剧", "人工智能真人短剧", "电视广告", "游戏宣传片", "推广与种草", "短片", "娱乐短视频"],
 };
 
 export const siteOrigin = "https://foldcraft-studio.emilia08250923.chatgpt.site";

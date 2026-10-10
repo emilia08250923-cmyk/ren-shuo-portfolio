@@ -3,7 +3,7 @@
     "width": 1440,
     "height": 1920,
     "hasAlpha": true,
-    "hash": "5e082bafc8534be2c8c7a44666736dfa213a252f0ffbf98dcc1e71963285ec23",
+    "hash": "6c973bbdf6c1aaf4f65a2e2b2827caea31a3e7c4c580fc709fa1e5c5405ae018",
     "variants": [
       {
         "src": "/media/design/form-shift/01-640.webp",
@@ -26,7 +26,7 @@
     "width": 1920,
     "height": 1440,
     "hasAlpha": true,
-    "hash": "ec63bbedb794b3d7eebc239c1ce7398d9c789ebe0882e92314bcb60f4e684533",
+    "hash": "474422ca5fb849de5042d286141b4602e479e4abb5d1abcd91832910ee58d6ce",
     "variants": [
       {
         "src": "/media/design/form-shift/02-640.webp",
@@ -54,7 +54,7 @@
     "width": 1920,
     "height": 1080,
     "hasAlpha": true,
-    "hash": "712bcb8118071215110cc6641f03b0d71e2ed5312037f4842cd07c2d9ed59e87",
+    "hash": "fd84cf82dff9d78f0d1b2594239645fdc9df563296d4e01c812c60800904d314",
     "variants": [
       {
         "src": "/media/design/form-shift/03-640.webp",
@@ -82,7 +82,7 @@
     "width": 1920,
     "height": 1440,
     "hasAlpha": true,
-    "hash": "e48e8f75a77fdcfc865ddc6161ce838d7502d4ad51906cd24225289117aea36e",
+    "hash": "f5160261b4edee2bb0880b1909c45aec69ea6b0e2ceaec3e00ab62bcf1a46939",
     "variants": [
       {
         "src": "/media/design/form-shift/cover-640.webp",
@@ -110,7 +110,7 @@
     "width": 1440,
     "height": 1920,
     "hasAlpha": true,
-    "hash": "72e1a164d9c96f526b48b0362abacfe6177f9f592b9ab5635a48e5d230bfed0e",
+    "hash": "303eb4555e96f9b0a3057712519b0f91ae499a4a836f515e6910f428c5738859",
     "variants": [
       {
         "src": "/media/design/new-perspectives/01-640.webp",
@@ -133,7 +133,7 @@
     "width": 1920,
     "height": 1440,
     "hasAlpha": true,
-    "hash": "30b2179f22ec18c993cfd2a7d0ef936a63e0f9746bba8c8feeece307261ce000",
+    "hash": "7a034c2d52dc8c4cfd907e89f0e0f43d676a31d5951592d362b3e0afb5a56cce",
     "variants": [
       {
         "src": "/media/design/new-perspectives/02-640.webp",
@@ -161,7 +161,7 @@
     "width": 1920,
     "height": 1080,
     "hasAlpha": true,
-    "hash": "be12ad9704b4d9603879a239f5e7e0643bac225a29a1fc9f6109c52390ff5abf",
+    "hash": "90527164937c2a27a27548db0573c25a897e60d2964d5ab7b99d35366573a3a0",
     "variants": [
       {
         "src": "/media/design/new-perspectives/03-640.webp",
@@ -189,7 +189,7 @@
     "width": 1920,
     "height": 1440,
     "hasAlpha": true,
-    "hash": "eada3ab8e5ff82ce4e1d219319d7dd2e29cfe14b923d5ca5314b207fccd36ee2",
+    "hash": "f7d1fcb2a4cf2f6c757f688d166d94b28d8d537a589e68755ec76edd32309bb0",
     "variants": [
       {
         "src": "/media/design/new-perspectives/cover-640.webp",
@@ -217,7 +217,7 @@
     "width": 1440,
     "height": 1920,
     "hasAlpha": true,
-    "hash": "a5b50bd13aa840bbeca0cb8c480226ff07d87198534bb9d3a5bde5db857b5115",
+    "hash": "18cdf9231f9e9a00a342454d3c08fd41d9e6ca04c7aae34f2ff76d555e3f47da",
     "variants": [
       {
         "src": "/media/design/objects-of-tomorrow/01-640.webp",
@@ -240,7 +240,7 @@
     "width": 1920,
     "height": 1440,
     "hasAlpha": true,
-    "hash": "7d4abf52b29b413131729146f1a0d6e9485aa436d13f9b46fcd0907a1ad07c1e",
+    "hash": "46a8c408ff44e2c78ac9bd8497ab87c4fda87f85d1c77d7350d95a93b2e38de4",
     "variants": [
       {
         "src": "/media/design/objects-of-tomorrow/02-640.webp",
@@ -268,7 +268,7 @@
     "width": 1920,
     "height": 1080,
     "hasAlpha": true,
-    "hash": "cca60974146ccc9a83eb0eef9e284926b26d8e670c6f6e203b3528a11eb739fa",
+    "hash": "2aa7452e85b3c70e0507216be6c4c2b9fcfcd3a69bf395c58e547367224e88e6",
     "variants": [
       {
         "src": "/media/design/objects-of-tomorrow/03-640.webp",
@@ -296,7 +296,7 @@
     "width": 1920,
     "height": 1440,
     "hasAlpha": true,
-    "hash": "432e55f75dce465082b5f52db56c46430ce40efa2d61afeb215c195dc656637a",
+    "hash": "4247f65bd3aec03915220ab84248026d11589845a135400cdc7619a88fd2af68",
     "variants": [
       {
         "src": "/media/design/objects-of-tomorrow/cover-640.webp",
@@ -324,7 +324,7 @@
     "width": 1440,
     "height": 1920,
     "hasAlpha": true,
-    "hash": "4e1a3a3e95256bb101d706ea7cb72ec8a14c6431a59f45fef45d5fa0f44cc162",
+    "hash": "edbdd9325fba4418f03f14cd5c72e8101a9fc9e6d3ccf634c8b303ef5051254d",
     "variants": [
       {
         "src": "/media/design/open-form/01-640.webp",
@@ -347,7 +347,7 @@
     "width": 1920,
     "height": 1440,
     "hasAlpha": true,
-    "hash": "9a56d6c36e15d1c4466540adf2712dea0dc2b0ff630f88a18d614dac2a89ab06",
+    "hash": "3108c7e92cf65805b96608aee2aa9227292bc4131ccb9f8e8ff327dfc266d859",
     "variants": [
       {
         "src": "/media/design/open-form/02-640.webp",
@@ -375,7 +375,7 @@
     "width": 1920,
     "height": 1080,
     "hasAlpha": true,
-    "hash": "55344ad4c35bb2575a80f566bcc633a31380589f562a776ca1ae4eb7ed4c7f89",
+    "hash": "d4cdffcc7fab672907aef8d930d984a7cb03665584486ef8762d9b44cae62507",
     "variants": [
       {
         "src": "/media/design/open-form/03-640.webp",
@@ -403,7 +403,7 @@
     "width": 1920,
     "height": 1440,
     "hasAlpha": true,
-    "hash": "da782616a8888057d2c7154414714190b4fcc5a7354763f3d7e547db71e8b2e8",
+    "hash": "7911248c3fb7839a3b8d96afb7256b92ecaa21b96733f47030981dd53f93f92a",
     "variants": [
       {
         "src": "/media/design/open-form/cover-640.webp",
@@ -431,7 +431,7 @@
     "width": 1440,
     "height": 1920,
     "hasAlpha": true,
-    "hash": "6fbb8fe47385a3f1dac0d233470627329bd273b05b6c79ab22c149990f12afce",
+    "hash": "4a7ba622512036fa11f9d850d9f4426790a7dfefd2358facfc2f21da371cab91",
     "variants": [
       {
         "src": "/media/design/quiet-garden/01-640.webp",
@@ -454,7 +454,7 @@
     "width": 1920,
     "height": 1440,
     "hasAlpha": true,
-    "hash": "ebabd87db4343d927aa74628f564049a4ec24f8426d396c443d8fbf2fa878071",
+    "hash": "fc5e84b8ceb2527f54a0a7e14d2e6515e91049f5f3ef0a9b547b57ff29d51a87",
     "variants": [
       {
         "src": "/media/design/quiet-garden/02-640.webp",
@@ -482,7 +482,7 @@
     "width": 1920,
     "height": 1080,
     "hasAlpha": true,
-    "hash": "a1c772e2eaa15e8faedfca90f13ffb7ce8e5e3e0ac9b40c0be56c32e2148ece2",
+    "hash": "4fb83fbb843d2c67ba3f75bd9391dbaf7dbdc9883d8190dbfeaaa1b5899d2e6a",
     "variants": [
       {
         "src": "/media/design/quiet-garden/03-640.webp",
@@ -510,7 +510,7 @@
     "width": 1920,
     "height": 1440,
     "hasAlpha": true,
-    "hash": "945caac603f0fa2493433f8ea75403e6d67596ed8e726aa59f6c8148fd025787",
+    "hash": "02515418702cf564551f5942c788949223a0531c481d88c8db63072a75bf48ef",
     "variants": [
       {
         "src": "/media/design/quiet-garden/cover-640.webp",
@@ -538,7 +538,7 @@
     "width": 1440,
     "height": 1920,
     "hasAlpha": true,
-    "hash": "874061f332193a735b18cf1227146d38e6d5c6e0db72a2a6e2244ab8c81d29d1",
+    "hash": "819afac9979435685cc62822b473b7498d4f6ecaaca11f73e529a486aeaeeaae",
     "variants": [
       {
         "src": "/media/design/soft-signal/01-640.webp",
@@ -561,7 +561,7 @@
     "width": 1920,
     "height": 1440,
     "hasAlpha": true,
-    "hash": "3bfc146ddd918747c914ddcdd490024f09d4504ebe5eb64c0ec905ed2b3ac0ba",
+    "hash": "ed5c431e9992d39c484d56271c57da6a224f9d1978d49b68e0e261454e9a8939",
     "variants": [
       {
         "src": "/media/design/soft-signal/02-640.webp",
@@ -589,7 +589,7 @@
     "width": 1920,
     "height": 1080,
     "hasAlpha": true,
-    "hash": "6be5231f691346e0be1d1e9463e548a2bbf0eca2d8df1e732981a8128c60c3cf",
+    "hash": "098938bb2d9c75695b0217d52e7a8fc91195dd06dd998dbf49bfc6cf67382597",
     "variants": [
       {
         "src": "/media/design/soft-signal/03-640.webp",
@@ -617,7 +617,7 @@
     "width": 1920,
     "height": 1440,
     "hasAlpha": true,
-    "hash": "023d3665ac0ebea27e0c70e458b9e730a3f19f6482663cceaceaf33368534c9c",
+    "hash": "7c73d00664a2ff8f571861b885c33712796ae18825a83c9c543d28b17de32b58",
     "variants": [
       {
         "src": "/media/design/soft-signal/cover-640.webp",
@@ -645,7 +645,7 @@
     "width": 1440,
     "height": 1920,
     "hasAlpha": true,
-    "hash": "1b6ab079f4280fb84cf82cc59fbefe31ab96e83d8377de65b718dd8c4234f73f",
+    "hash": "799926e09155b47839b9bef3d7dea5083d6daba1e0e784156157d95555a7a08f",
     "variants": [
       {
         "src": "/media/design/type-in-motion/01-640.webp",
@@ -668,7 +668,7 @@
     "width": 1920,
     "height": 1440,
     "hasAlpha": true,
-    "hash": "781f6648de381160056d17f326e8d5c96b5f95d66efb310f0151bdd836a29f61",
+    "hash": "faec906000ffe34104922f55ed67eae20d06205d7670631154dd134a8c618566",
     "variants": [
       {
         "src": "/media/design/type-in-motion/02-640.webp",
@@ -696,7 +696,7 @@
     "width": 1920,
     "height": 1080,
     "hasAlpha": true,
-    "hash": "258fdb65b9328c637cb82f8c2f22190ed8cabe2429b50e2e81fe60fb45f478aa",
+    "hash": "b718ab94f9335adea47535aa596e17ec0d9661ec45b47e3c6cf7d2c0befbcdff",
     "variants": [
       {
         "src": "/media/design/type-in-motion/03-640.webp",
@@ -724,7 +724,7 @@
     "width": 1920,
     "height": 1440,
     "hasAlpha": true,
-    "hash": "c83e146b0ee68be42b4238300784562cec8c4827baf57e549cd2aa664130bb16",
+    "hash": "0eaa44812ccbc63b22f8a41ce38e50a5aba3454d246ca08f7e23aa070abd0403",
     "variants": [
       {
         "src": "/media/design/type-in-motion/cover-640.webp",
@@ -752,7 +752,7 @@
     "width": 1920,
     "height": 1080,
     "hasAlpha": true,
-    "hash": "42f4875b7418c6342a54a3e2330e086f6b9e54b8221111b08efc5a96e1f6b83e",
+    "hash": "5ed284f09599d57acba17b89b053bda2d2372c46138b5f3952f39b38ee05b554",
     "variants": [
       {
         "src": "/media/video/after-hours/cover-640.webp",
@@ -780,7 +780,7 @@
     "width": 1920,
     "height": 1080,
     "hasAlpha": true,
-    "hash": "93e10389b8a398d8197bb459d225dd48fa55717060f8e5d7621f1d0babdf64fb",
+    "hash": "2915c8f07886c45d9e13832ce28092f426aff01caa2585a23286548805b1c97b",
     "variants": [
       {
         "src": "/media/video/beyond-the-frame/cover-640.webp",
@@ -808,7 +808,7 @@
     "width": 1920,
     "height": 1080,
     "hasAlpha": true,
-    "hash": "c3d90b7684491e8c3a3677c1b4181587c131d4b04c59a0fae8e801b3f1b4e0a6",
+    "hash": "5777bb3fd4450e23da050fd6e9f5c6408bcea7891a60dfef12054a44ef468681",
     "variants": [
       {
         "src": "/media/video/parallel-worlds/cover-640.webp",
