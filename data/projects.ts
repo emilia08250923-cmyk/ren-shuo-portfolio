@@ -69,12 +69,22 @@ const uploadedApps: DesignProject[] = [1, 2, 3].map((number, index) => ({
   images: [{ base: `/media/design/app-icon-${String(number).padStart(2, "0")}/cover`, alt: `App 图标 ${index + 1} 完整作品` }],
 }));
 
+const uploadedLaunchPages: DesignProject[] = [1, 2, 3].map((number, index) => ({
+  id: 500 + number, slug: `launch-page-${String(number).padStart(2, "0")}`, title: `启动页 ${index + 1}`,
+  category: "launch-page", type: "design", year: "", demo: false, carouselType: "normal", selected: index === 0,
+  cover: `/media/design/app-icon-${String(number).padStart(2, "0")}/cover`,
+  description: "启动页设计作品，点击图片可按原始比例放大查看。",
+  role: ["启动页设计"], tools: ["待补充"], process: [],
+  images: [{ base: `/media/design/app-icon-${String(number).padStart(2, "0")}/cover`, alt: `启动页 ${index + 1} 完整作品` }],
+}));
+
 export const projects: Project[] = [
   ...uploadedPosters,
   ...uploadedBanners,
   ...uploadedIPs,
   ...uploadedApps,
-  ...designSeed.filter(item => item[2] !== "poster" && item[2] !== "banner" && item[2] !== "ip-design" && item[2] !== "app-icon").map(([slug, title, category, carouselType, description], index): DesignProject => ({
+  ...uploadedLaunchPages,
+  ...designSeed.filter(item => item[2] !== "poster" && item[2] !== "banner" && item[2] !== "ip-design" && item[2] !== "app-icon" && item[2] !== "launch-page").map(([slug, title, category, carouselType, description], index): DesignProject => ({
     id: index + 1, slug, title, category, carouselType, description, type: "design", year: "2026",
     cover: `/media/design/${slug}/cover`, selected: index < 4, demo: true,
     role: ["概念开发", "视觉指导", "视觉设计"], tools: ["Illustrator", "Photoshop"],
