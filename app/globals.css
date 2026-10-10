@@ -415,3 +415,10 @@ body { font-family:"Geist","PingFang SC","Microsoft YaHei","Noto Sans CJK SC",sa
  .hero-meta>.eyebrow { max-width:180px; } .hero-footnote>span:first-child { max-width:180px; }
  .about-hero>h1 { font-size:13vw; } .contact-page>h1 { font-size:13vw; }
 }
+/* Uploaded portrait posters display their complete original artwork in color. */
+.archive-grid>div .uploaded-poster.project-card { display:block; background:transparent; color:inherit; }
+.archive-grid>div .uploaded-poster .project-cover { aspect-ratio:2/3; background:#eeeae2; }
+.archive-grid>div .uploaded-poster .project-cover img { object-fit:contain; filter:none; }
+.archive-grid>div .uploaded-poster .project-caption { padding:16px 0 14px; border-bottom:1px solid var(--line); }
+.archive-grid>div .uploaded-poster .project-caption h3 { font-size:clamp(20px,2vw,34px); }
+.archive-grid>div:has(.uploaded-poster) { grid-column:auto; padding-top:0; }

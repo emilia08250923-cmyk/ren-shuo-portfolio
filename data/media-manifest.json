@@ -427,6 +427,150 @@
       }
     ]
   },
+  "/media/design/poster-01/cover": {
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": false,
+    "hash": "ea86e529d942a1a2197a019d25e90772a41dc04d55891bff4f5d9538e4374858",
+    "variants": [
+      {
+        "src": "/media/design/poster-01/cover-640.webp",
+        "width": 640,
+        "height": 960
+      },
+      {
+        "src": "/media/design/poster-01/cover-960.webp",
+        "width": 960,
+        "height": 1440
+      }
+    ]
+  },
+  "/media/design/poster-02/cover": {
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": false,
+    "hash": "e7777c2c3b6c275edb236d4e215599db233a3ccded1136aae13edaad51aefd46",
+    "variants": [
+      {
+        "src": "/media/design/poster-02/cover-640.webp",
+        "width": 640,
+        "height": 960
+      },
+      {
+        "src": "/media/design/poster-02/cover-960.webp",
+        "width": 960,
+        "height": 1440
+      }
+    ]
+  },
+  "/media/design/poster-03/cover": {
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": false,
+    "hash": "ba142fdaf52a6ab8fa88b76a39492a57ea1dafe31c75fb39d5698ec5d012850d",
+    "variants": [
+      {
+        "src": "/media/design/poster-03/cover-640.webp",
+        "width": 640,
+        "height": 960
+      },
+      {
+        "src": "/media/design/poster-03/cover-960.webp",
+        "width": 960,
+        "height": 1440
+      }
+    ]
+  },
+  "/media/design/poster-04/cover": {
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": false,
+    "hash": "4818f7c1c5ffe083508c94f2ab421250546e0160764eac176049b687d0a1edff",
+    "variants": [
+      {
+        "src": "/media/design/poster-04/cover-640.webp",
+        "width": 640,
+        "height": 960
+      },
+      {
+        "src": "/media/design/poster-04/cover-960.webp",
+        "width": 960,
+        "height": 1440
+      }
+    ]
+  },
+  "/media/design/poster-07/cover": {
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": false,
+    "hash": "95fafd9250c99a2b8de2366c362a3aeb56dad6b37898765364aeaa576d3c38e1",
+    "variants": [
+      {
+        "src": "/media/design/poster-07/cover-640.webp",
+        "width": 640,
+        "height": 960
+      },
+      {
+        "src": "/media/design/poster-07/cover-960.webp",
+        "width": 960,
+        "height": 1440
+      }
+    ]
+  },
+  "/media/design/poster-08/cover": {
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": false,
+    "hash": "a3641669a6414753fa54d583408e817a7fb74cc422873e069cd654d54cbba6c3",
+    "variants": [
+      {
+        "src": "/media/design/poster-08/cover-640.webp",
+        "width": 640,
+        "height": 960
+      },
+      {
+        "src": "/media/design/poster-08/cover-960.webp",
+        "width": 960,
+        "height": 1440
+      }
+    ]
+  },
+  "/media/design/poster-09/cover": {
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": false,
+    "hash": "34f8551d84e15344de02ebc53714be2d170e7fb5bd537ea26e2845c2a384c680",
+    "variants": [
+      {
+        "src": "/media/design/poster-09/cover-640.webp",
+        "width": 640,
+        "height": 960
+      },
+      {
+        "src": "/media/design/poster-09/cover-960.webp",
+        "width": 960,
+        "height": 1440
+      }
+    ]
+  },
+  "/media/design/poster-10/cover": {
+    "width": 1024,
+    "height": 1536,
+    "hasAlpha": false,
+    "hash": "c2e3efacaf31bfc4858a95cb7959d115c21413b3b27f2f87d7bc12b18446909a",
+    "variants": [
+      {
+        "src": "/media/design/poster-10/cover-640.webp",
+        "width": 640,
+        "height": 960
+      },
+      {
+        "src": "/media/design/poster-10/cover-960.webp",
+        "width": 960,
+        "height": 1440
+      }
+    ]
+  },
   "/media/design/quiet-garden/01": {
     "width": 1440,
     "height": 1920,
