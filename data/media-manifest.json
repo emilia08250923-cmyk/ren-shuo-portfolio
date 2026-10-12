@@ -2029,6 +2029,213 @@
       }
     ]
   },
+  "/media/video/hun-yin-bei-pan/asset-01": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "1412648f673f06cceaea3e345e864e02474b2d899a671eb8f41892fbd021791b",
+    "variants": [
+      {
+        "src": "/media/video/hun-yin-bei-pan/asset-01-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/hun-yin-bei-pan/asset-01-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/hun-yin-bei-pan/asset-01-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/video/hun-yin-bei-pan/asset-02": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "fa38dfec579a16bfc7aa75fd00de0a32cf2dcf2e823f9c8e945043502c5d7c80",
+    "variants": [
+      {
+        "src": "/media/video/hun-yin-bei-pan/asset-02-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/hun-yin-bei-pan/asset-02-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/hun-yin-bei-pan/asset-02-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/video/hun-yin-bei-pan/asset-03": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "f7c81cf66396b86ed88312b56fa78664078f04af23a9d7d1c27d7edcb2a58e70",
+    "variants": [
+      {
+        "src": "/media/video/hun-yin-bei-pan/asset-03-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/hun-yin-bei-pan/asset-03-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/hun-yin-bei-pan/asset-03-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/video/hun-yin-bei-pan/asset-04": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "395b054f03b3ab28a81fb7ef326e7f6c9bfbd7d510be4e9b87ffed6d360f74d4",
+    "variants": [
+      {
+        "src": "/media/video/hun-yin-bei-pan/asset-04-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/hun-yin-bei-pan/asset-04-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/hun-yin-bei-pan/asset-04-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/video/hun-yin-bei-pan/asset-05": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "fa0568a29798a9107dead7546374d085b849c462adaf6ab231564f8801ccbce2",
+    "variants": [
+      {
+        "src": "/media/video/hun-yin-bei-pan/asset-05-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/hun-yin-bei-pan/asset-05-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/hun-yin-bei-pan/asset-05-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/video/hun-yin-bei-pan/asset-06": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "5ff563debcfed38e41932c09236442989541316be74da4445bd7d3124846ed53",
+    "variants": [
+      {
+        "src": "/media/video/hun-yin-bei-pan/asset-06-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/hun-yin-bei-pan/asset-06-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/hun-yin-bei-pan/asset-06-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/video/hun-yin-bei-pan/asset-07": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "fce17d3774158f8a5cd1922c71af4492ca370d290e95642c76a747534a07ba1d",
+    "variants": [
+      {
+        "src": "/media/video/hun-yin-bei-pan/asset-07-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/hun-yin-bei-pan/asset-07-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/hun-yin-bei-pan/asset-07-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/video/hun-yin-bei-pan/asset-08": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "6d4c29fd4cf0e5827bbce1e900d87e81dba630deb5ac0c6d652903cafeccf0ee",
+    "variants": [
+      {
+        "src": "/media/video/hun-yin-bei-pan/asset-08-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/hun-yin-bei-pan/asset-08-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/hun-yin-bei-pan/asset-08-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/video/hun-yin-bei-pan/cover": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "395b054f03b3ab28a81fb7ef326e7f6c9bfbd7d510be4e9b87ffed6d360f74d4",
+    "variants": [
+      {
+        "src": "/media/video/hun-yin-bei-pan/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/hun-yin-bei-pan/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/hun-yin-bei-pan/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
   "/media/video/parallel-worlds/cover": {
     "width": 1920,
     "height": 1080,

@@ -74,6 +74,11 @@ const uploadedFonts: DesignProject[] = [1, 2, 3].map((number, index) => ({
 }));
 
 export const projects: Project[] = [
+  { id: 703, slug: "hun-yin-bei-pan", title: "婚姻背叛", category: "all", type: "video", year: "", duration: "—", demo: false,
+    cover: "/media/video/hun-yin-bei-pan/cover", description: "婚姻背叛。可在站内观看，并浏览剧本与图片资产。",
+    bilibiliUrl: "https://www.bilibili.com/video/BV1FfpY6HEaA/", bvid: "BV1FfpY6HEaA", role: [], tools: [], process: [],
+    episodes: [{title: "正片", bvid: "BV1FfpY6HEaA"}], assetsUrl: "/video/hun-yin-bei-pan/assets"
+  },
   { id: 702, slug: "yue-jie-guan-xi", title: "越界关系", category: "all", type: "video", year: "", duration: "—", demo: false,
     cover: "/media/video/yue-jie-guan-xi/cover", description: "越界关系 · 第 1 集、第 2 集。可在站内选集观看，并浏览剧本与图片资产。",
     bilibiliUrl: "https://www.bilibili.com/video/BV1y8pe6FE1Y/", bvid: "BV1y8pe6FE1Y", role: [], tools: [], process: [],
