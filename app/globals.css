@@ -460,3 +460,16 @@ body { font-family:"Geist","PingFang SC","Microsoft YaHei","Noto Sans CJK SC",sa
 .archive-grid>div .uploaded-font .project-caption { padding:16px 0 14px; border-bottom:1px solid var(--line); }
 .archive-grid>div .uploaded-font .project-caption h3 { font-size:clamp(20px,2vw,34px); }
 .archive-grid>div:has(.uploaded-font) { grid-column:auto; padding-top:0; }
+/* Series episodes and production assets. */
+.series-toolbar { display:flex; flex-wrap:wrap; align-items:center; gap:12px; margin:24px 0; }
+.series-toolbar>div { display:flex; gap:10px; }
+.series-toolbar button[aria-pressed=true] { background:var(--accent); color:white; }
+.series-card-assets { margin:14px 0 0; }
+.series-assets h1 { font-size:clamp(32px,6vw,80px); margin:35px 0; }
+.series-assets h2 { font-size:30px; margin:32px 0 16px; }
+.series-assets section { scroll-margin-top:100px; }
+.script-preview { border:1px solid var(--line); padding:20px; margin:25px 0 45px; }
+.script-preview summary { cursor:pointer; font-size:18px; }
+.script-preview p { white-space:pre-wrap; line-height:1.9; margin:14px 0; }
+.asset-index { display:flex; flex-wrap:wrap; gap:12px 24px; margin:24px 0; }
+@media(max-width:767px) { .series-assets .section-top { flex-wrap:wrap; gap:15px; } }

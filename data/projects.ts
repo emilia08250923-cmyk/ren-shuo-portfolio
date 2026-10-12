@@ -5,7 +5,7 @@ type BaseProject = {
   selected?: boolean; demo?: boolean; process: { title: string; text: string }[];
 };
 export type DesignProject = BaseProject & { type: "design"; carouselType: "normal" | "showcase"; images: ProjectImage[] };
-export type VideoProject = BaseProject & { type: "video"; duration: string; bilibiliUrl: string; bvid?: string; cid?: string };
+export type VideoProject = BaseProject & { type: "video"; duration: string; bilibiliUrl: string; bvid?: string; cid?: string; episodes?: { title: string; bvid: string }[]; assetsUrl?: string };
 export type Project = DesignProject | VideoProject;
 
 export const designCategories = [
@@ -78,6 +78,11 @@ const uploadedFonts: DesignProject[] = [1, 2, 3].map((number, index) => ({
 }));
 
 export const projects: Project[] = [
+  { id: 700, slug: "chuan-yue-fan-pai", title: "穿越反派", category: "comic-drama", type: "video", year: "", duration: "—", demo: false,
+    cover: "/media/video/chuan-yue-fan-pai/cover", description: "漫剧《穿越反派》· 第 1 集、第 2 集。可在站内选集观看，并浏览剧本与图片资产。",
+    bilibiliUrl: "https://www.bilibili.com/video/BV1Ntpe6aEfx/", bvid: "BV1Ntpe6aEfx", role: ["待补充"], tools: ["待补充"], process: [],
+    episodes: [{title: "第 1 集", bvid: "BV1Ntpe6aEfx"}, {title: "第 2 集", bvid: "BV1Cape6ZEJ2"}], assetsUrl: "/video/chuan-yue-fan-pai/assets"
+  },
   ...uploadedPosters,
   ...uploadedBanners,
   ...uploadedIPs,

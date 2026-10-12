@@ -1500,6 +1500,282 @@
       }
     ]
   },
+  "/media/video/chuan-yue-fan-pai/asset-01": {
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": false,
+    "hash": "3f3860088fa2dd5a525ebde022d318fb2f360a88ff9e690d9b81031231e87ab2",
+    "variants": [
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-01-640.webp",
+        "width": 640,
+        "height": 427
+      },
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-01-960.webp",
+        "width": 960,
+        "height": 640
+      },
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-01-1440.webp",
+        "width": 1440,
+        "height": 960
+      }
+    ]
+  },
+  "/media/video/chuan-yue-fan-pai/asset-02": {
+    "width": 1654,
+    "height": 951,
+    "hasAlpha": false,
+    "hash": "808c820eb76d2221797d1bc0d642342c343a9aaf99eda122b03b99e4924026a4",
+    "variants": [
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-02-640.webp",
+        "width": 640,
+        "height": 368
+      },
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-02-960.webp",
+        "width": 960,
+        "height": 552
+      },
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-02-1440.webp",
+        "width": 1440,
+        "height": 828
+      }
+    ]
+  },
+  "/media/video/chuan-yue-fan-pai/asset-03": {
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": false,
+    "hash": "00a89463dc92d7286a30b57be1f73b93424f34f38656aae0a0e5b91a5dda5be7",
+    "variants": [
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-03-640.webp",
+        "width": 640,
+        "height": 427
+      },
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-03-960.webp",
+        "width": 960,
+        "height": 640
+      },
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-03-1440.webp",
+        "width": 1440,
+        "height": 960
+      }
+    ]
+  },
+  "/media/video/chuan-yue-fan-pai/asset-04": {
+    "width": 1654,
+    "height": 951,
+    "hasAlpha": false,
+    "hash": "bbe75de82c3761c7ced592bfae61f2d38ff494bb0bb6d8b50e1dac94fa875c83",
+    "variants": [
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-04-640.webp",
+        "width": 640,
+        "height": 368
+      },
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-04-960.webp",
+        "width": 960,
+        "height": 552
+      },
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-04-1440.webp",
+        "width": 1440,
+        "height": 828
+      }
+    ]
+  },
+  "/media/video/chuan-yue-fan-pai/asset-05": {
+    "width": 1655,
+    "height": 950,
+    "hasAlpha": false,
+    "hash": "df2c3fc4ca4aed95d688004f2563ed3cc2a291ee1b5b4d18881f9183d15169eb",
+    "variants": [
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-05-640.webp",
+        "width": 640,
+        "height": 367
+      },
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-05-960.webp",
+        "width": 960,
+        "height": 551
+      },
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-05-1440.webp",
+        "width": 1440,
+        "height": 827
+      }
+    ]
+  },
+  "/media/video/chuan-yue-fan-pai/asset-06": {
+    "width": 1655,
+    "height": 950,
+    "hasAlpha": false,
+    "hash": "e4387caddbb8c4d777221619efc1dc611d761a355c8a2f26bf949d46ff381767",
+    "variants": [
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-06-640.webp",
+        "width": 640,
+        "height": 367
+      },
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-06-960.webp",
+        "width": 960,
+        "height": 551
+      },
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-06-1440.webp",
+        "width": 1440,
+        "height": 827
+      }
+    ]
+  },
+  "/media/video/chuan-yue-fan-pai/asset-07": {
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": false,
+    "hash": "c23a5efe8d3f4c44f44153e21bf4326ea79266db4aaf858ccf54fdf81c526a2a",
+    "variants": [
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-07-640.webp",
+        "width": 640,
+        "height": 427
+      },
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-07-960.webp",
+        "width": 960,
+        "height": 640
+      },
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-07-1440.webp",
+        "width": 1440,
+        "height": 960
+      }
+    ]
+  },
+  "/media/video/chuan-yue-fan-pai/asset-08": {
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": false,
+    "hash": "b5f553898a152a2062841c86b674614f386a0663e3b2e161833ada76aa5bc6fa",
+    "variants": [
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-08-640.webp",
+        "width": 640,
+        "height": 427
+      },
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-08-960.webp",
+        "width": 960,
+        "height": 640
+      },
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-08-1440.webp",
+        "width": 1440,
+        "height": 960
+      }
+    ]
+  },
+  "/media/video/chuan-yue-fan-pai/asset-09": {
+    "width": 1655,
+    "height": 950,
+    "hasAlpha": false,
+    "hash": "37043d9c165c7e38d6d3a68c62483abff44c0248da6a9c5e098eee8633d0fa48",
+    "variants": [
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-09-640.webp",
+        "width": 640,
+        "height": 367
+      },
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-09-960.webp",
+        "width": 960,
+        "height": 551
+      },
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-09-1440.webp",
+        "width": 1440,
+        "height": 827
+      }
+    ]
+  },
+  "/media/video/chuan-yue-fan-pai/asset-10": {
+    "width": 1655,
+    "height": 950,
+    "hasAlpha": false,
+    "hash": "8aca76868e045ee5fc31c8c277fc1141e1c886b316ffd85308a8d919bfb7b3cb",
+    "variants": [
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-10-640.webp",
+        "width": 640,
+        "height": 367
+      },
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-10-960.webp",
+        "width": 960,
+        "height": 551
+      },
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-10-1440.webp",
+        "width": 1440,
+        "height": 827
+      }
+    ]
+  },
+  "/media/video/chuan-yue-fan-pai/asset-11": {
+    "width": 1655,
+    "height": 950,
+    "hasAlpha": false,
+    "hash": "4583008a9a2f3f069076247f7b81447d5a2d02e4c2c338d3a82f02c75ac42160",
+    "variants": [
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-11-640.webp",
+        "width": 640,
+        "height": 367
+      },
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-11-960.webp",
+        "width": 960,
+        "height": 551
+      },
+      {
+        "src": "/media/video/chuan-yue-fan-pai/asset-11-1440.webp",
+        "width": 1440,
+        "height": 827
+      }
+    ]
+  },
+  "/media/video/chuan-yue-fan-pai/cover": {
+    "width": 1655,
+    "height": 950,
+    "hasAlpha": false,
+    "hash": "4583008a9a2f3f069076247f7b81447d5a2d02e4c2c338d3a82f02c75ac42160",
+    "variants": [
+      {
+        "src": "/media/video/chuan-yue-fan-pai/cover-640.webp",
+        "width": 640,
+        "height": 367
+      },
+      {
+        "src": "/media/video/chuan-yue-fan-pai/cover-960.webp",
+        "width": 960,
+        "height": 551
+      },
+      {
+        "src": "/media/video/chuan-yue-fan-pai/cover-1440.webp",
+        "width": 1440,
+        "height": 827
+      }
+    ]
+  },
   "/media/video/parallel-worlds/cover": {
     "width": 1920,
     "height": 1080,
