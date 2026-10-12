@@ -473,3 +473,6 @@ body { font-family:"Geist","PingFang SC","Microsoft YaHei","Noto Sans CJK SC",sa
 .script-preview p { white-space:pre-wrap; line-height:1.9; margin:14px 0; }
 .asset-index { display:flex; flex-wrap:wrap; gap:12px 24px; margin:24px 0; }
 @media(max-width:767px) { .series-assets .section-top { flex-wrap:wrap; gap:15px; } }
+
+.desktop-nav>a { font-size:18px; }
+.artwork-frame[role="button"] { cursor:zoom-in; }

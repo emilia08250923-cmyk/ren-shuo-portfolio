@@ -74,70 +74,70 @@ const uploadedFonts: DesignProject[] = [1, 2, 3].map((number, index) => ({
 }));
 
 export const projects: Project[] = [
-  { id: 709, slug: "tvc-4", title: "TVC 4", category: "all", type: "video", year: "", duration: "—", demo: false,
-    cover: "/media/video/tvc-4/cover", description: "TVC 4。可在站内观看，并浏览剧本与图片资产。",
-    bilibiliUrl: "https://www.bilibili.com/video/BV1Bwpe6JEhC/", bvid: "BV1Bwpe6JEhC", role: [], tools: [], process: [],
-    episodes: [{title: "正片", bvid: "BV1Bwpe6JEhC"}], assetsUrl: "/video/tvc-4/assets"
+  { id: 700, slug: "chuan-yue-fan-pai", title: "穿越反派", category: "all", type: "video", year: "", duration: "—", demo: false, selected: true,
+    cover: "/media/video/chuan-yue-fan-pai/cover", description: "漫剧《穿越反派》· 第 1 集、第 2 集。可在站内选集观看，并浏览剧本与图片资产。",
+    bilibiliUrl: "https://www.bilibili.com/video/BV1Ntpe6aEfx/", bvid: "BV1Ntpe6aEfx", role: ["待补充"], tools: ["待补充"], process: [],
+    episodes: [{title: "第 1 集", bvid: "BV1Ntpe6aEfx"}, {title: "第 2 集", bvid: "BV1Cape6ZEJ2"}], assetsUrl: "/video/chuan-yue-fan-pai/assets"
   },
-  { id: 712, slug: "yi-cheng-jue-xing", title: "遗城觉醒（游戏宣传）", category: "all", type: "video", year: "", duration: "—", demo: false,
-    cover: "/media/video/yi-cheng-jue-xing/cover", description: "遗城觉醒（游戏宣传）。可在站内观看，并浏览剧本与图片资产。",
-    bilibiliUrl: "https://www.bilibili.com/video/BV1Ewpe6JEbs/", bvid: "BV1Ewpe6JEbs", role: [], tools: [], process: [],
-    episodes: [{title: "正片", bvid: "BV1Ewpe6JEbs"}], assetsUrl: "/video/yi-cheng-jue-xing/assets"
-  },
-  { id: 711, slug: "zhen-ren-ge-dou", title: "真人格斗（游戏）", category: "all", type: "video", year: "", duration: "—", demo: false,
-    cover: "/media/video/zhen-ren-ge-dou/cover", description: "真人格斗（游戏）。可在站内观看，并浏览剧本与图片资产。",
-    bilibiliUrl: "https://www.bilibili.com/video/BV1Ewpe6JEp5/", bvid: "BV1Ewpe6JEp5", role: [], tools: [], process: [],
-    episodes: [{title: "正片", bvid: "BV1Ewpe6JEp5"}], assetsUrl: "/video/zhen-ren-ge-dou/assets"
-  },
-  { id: 710, slug: "ootd", title: "ootd", category: "all", type: "video", year: "", duration: "—", demo: false,
-    cover: "/media/video/ootd/cover", description: "ootd。可在站内观看，并浏览剧本与图片资产。",
-    bilibiliUrl: "https://www.bilibili.com/video/BV17wpe6JEQY/", bvid: "BV17wpe6JEQY", role: [], tools: [], process: [],
-    episodes: [{title: "正片", bvid: "BV17wpe6JEQY"}], assetsUrl: "/video/ootd/assets"
-  },
-  { id: 708, slug: "tvc-3", title: "TVC 3", category: "all", type: "video", year: "", duration: "—", demo: false,
-    cover: "/media/video/tvc-3/cover", description: "TVC 3。可在站内观看，并浏览剧本与图片资产。",
-    bilibiliUrl: "https://www.bilibili.com/video/BV1Bwpe6JErA/", bvid: "BV1Bwpe6JErA", role: [], tools: [], process: [],
-    episodes: [{title: "正片", bvid: "BV1Bwpe6JErA"}], assetsUrl: "/video/tvc-3/assets"
-  },
-  { id: 707, slug: "tvc-2", title: "TVC 2", category: "all", type: "video", year: "", duration: "—", demo: false,
-    cover: "/media/video/tvc-2/cover", description: "TVC 2。可在站内观看，并浏览剧本与图片资产。",
-    bilibiliUrl: "https://www.bilibili.com/video/BV1fwpe6EEcw/", bvid: "BV1fwpe6EEcw", role: [], tools: [], process: [],
-    episodes: [{title: "正片", bvid: "BV1fwpe6EEcw"}], assetsUrl: "/video/tvc-2/assets"
-  },
-  { id: 706, slug: "tvc-1", title: "TVC 1", category: "all", type: "video", year: "", duration: "—", demo: false,
-    cover: "/media/video/tvc-1/cover", description: "TVC 1。可在站内观看，并浏览剧本与图片资产。",
-    bilibiliUrl: "https://www.bilibili.com/video/BV1copY6XE3F/", bvid: "BV1copY6XE3F", role: [], tools: [], process: [],
-    episodes: [{title: "正片", bvid: "BV1copY6XE3F"}], assetsUrl: "/video/tvc-1/assets"
-  },
-  { id: 705, slug: "xiang-feng", title: "相逢", category: "all", type: "video", year: "", duration: "—", demo: false,
-    cover: "/media/video/xiang-feng/cover", description: "相逢。可在站内观看，并浏览剧本与图片资产。",
-    bilibiliUrl: "https://www.bilibili.com/video/BV1FfpY6HE3k/", bvid: "BV1FfpY6HE3k", role: [], tools: [], process: [],
-    episodes: [{title: "正片", bvid: "BV1FfpY6HE3k"}], assetsUrl: "/video/xiang-feng/assets"
-  },
-  { id: 704, slug: "niu-tou-ren", title: "牛头人", category: "all", type: "video", year: "", duration: "—", demo: false,
-    cover: "/media/video/niu-tou-ren/cover", description: "牛头人。可在站内观看，并浏览剧本与图片资产。",
-    bilibiliUrl: "https://www.bilibili.com/video/BV1zfpY6HE2Q/", bvid: "BV1zfpY6HE2Q", role: [], tools: [], process: [],
-    episodes: [{title: "正片", bvid: "BV1zfpY6HE2Q"}], assetsUrl: "/video/niu-tou-ren/assets"
-  },
-  { id: 703, slug: "hun-yin-bei-pan", title: "婚姻背叛", category: "all", type: "video", year: "", duration: "—", demo: false,
-    cover: "/media/video/hun-yin-bei-pan/cover", description: "婚姻背叛。可在站内观看，并浏览剧本与图片资产。",
-    bilibiliUrl: "https://www.bilibili.com/video/BV1FfpY6HEaA/", bvid: "BV1FfpY6HEaA", role: [], tools: [], process: [],
-    episodes: [{title: "正片", bvid: "BV1FfpY6HEaA"}], assetsUrl: "/video/hun-yin-bei-pan/assets"
+  { id: 701, slug: "heart", title: "Heart", category: "all", type: "video", year: "", duration: "—", demo: false, selected: true,
+    cover: "/media/video/heart/cover", description: "Heart · 第 1 集、第 2 集。可在站内选集观看，并浏览剧本与图片资产。",
+    bilibiliUrl: "https://www.bilibili.com/video/BV1y8pe6FEmr/", bvid: "BV1y8pe6FEmr", role: [], tools: [], process: [],
+    episodes: [{title: "第 1 集", bvid: "BV1y8pe6FEmr"}, {title: "第 2 集", bvid: "BV1s8pe6cEDy"}], assetsUrl: "/video/heart/assets"
   },
   { id: 702, slug: "yue-jie-guan-xi", title: "越界关系", category: "all", type: "video", year: "", duration: "—", demo: false,
     cover: "/media/video/yue-jie-guan-xi/cover", description: "越界关系 · 第 1 集、第 2 集。可在站内选集观看，并浏览剧本与图片资产。",
     bilibiliUrl: "https://www.bilibili.com/video/BV1y8pe6FE1Y/", bvid: "BV1y8pe6FE1Y", role: [], tools: [], process: [],
     episodes: [{title: "第 1 集", bvid: "BV1y8pe6FE1Y"}, {title: "第 2 集", bvid: "BV1y8pe6FEqv"}], assetsUrl: "/video/yue-jie-guan-xi/assets"
   },
-  { id: 701, slug: "heart", title: "Heart", category: "all", type: "video", year: "", duration: "—", demo: false,
-    cover: "/media/video/heart/cover", description: "Heart · 第 1 集、第 2 集。可在站内选集观看，并浏览剧本与图片资产。",
-    bilibiliUrl: "https://www.bilibili.com/video/BV1y8pe6FEmr/", bvid: "BV1y8pe6FEmr", role: [], tools: [], process: [],
-    episodes: [{title: "第 1 集", bvid: "BV1y8pe6FEmr"}, {title: "第 2 集", bvid: "BV1s8pe6cEDy"}], assetsUrl: "/video/heart/assets"
+  { id: 703, slug: "hun-yin-bei-pan", title: "婚姻背叛", category: "all", type: "video", year: "", duration: "—", demo: false,
+    cover: "/media/video/hun-yin-bei-pan/cover", description: "婚姻背叛。可在站内观看，并浏览剧本与图片资产。",
+    bilibiliUrl: "https://www.bilibili.com/video/BV1FfpY6HEaA/", bvid: "BV1FfpY6HEaA", role: [], tools: [], process: [],
+    episodes: [{title: "正片", bvid: "BV1FfpY6HEaA"}], assetsUrl: "/video/hun-yin-bei-pan/assets"
   },
-  { id: 700, slug: "chuan-yue-fan-pai", title: "穿越反派", category: "all", type: "video", year: "", duration: "—", demo: false,
-    cover: "/media/video/chuan-yue-fan-pai/cover", description: "漫剧《穿越反派》· 第 1 集、第 2 集。可在站内选集观看，并浏览剧本与图片资产。",
-    bilibiliUrl: "https://www.bilibili.com/video/BV1Ntpe6aEfx/", bvid: "BV1Ntpe6aEfx", role: ["待补充"], tools: ["待补充"], process: [],
-    episodes: [{title: "第 1 集", bvid: "BV1Ntpe6aEfx"}, {title: "第 2 集", bvid: "BV1Cape6ZEJ2"}], assetsUrl: "/video/chuan-yue-fan-pai/assets"
+  { id: 704, slug: "niu-tou-ren", title: "牛头人", category: "all", type: "video", year: "", duration: "—", demo: false,
+    cover: "/media/video/niu-tou-ren/cover", description: "牛头人。可在站内观看，并浏览剧本与图片资产。",
+    bilibiliUrl: "https://www.bilibili.com/video/BV1zfpY6HE2Q/", bvid: "BV1zfpY6HE2Q", role: [], tools: [], process: [],
+    episodes: [{title: "正片", bvid: "BV1zfpY6HE2Q"}], assetsUrl: "/video/niu-tou-ren/assets"
+  },
+  { id: 705, slug: "xiang-feng", title: "相逢", category: "all", type: "video", year: "", duration: "—", demo: false,
+    cover: "/media/video/xiang-feng/cover", description: "相逢。可在站内观看，并浏览剧本与图片资产。",
+    bilibiliUrl: "https://www.bilibili.com/video/BV1FfpY6HE3k/", bvid: "BV1FfpY6HE3k", role: [], tools: [], process: [],
+    episodes: [{title: "正片", bvid: "BV1FfpY6HE3k"}], assetsUrl: "/video/xiang-feng/assets"
+  },
+  { id: 706, slug: "tvc-1", title: "TVC 1", category: "all", type: "video", year: "", duration: "—", demo: false,
+    cover: "/media/video/tvc-1/cover", description: "TVC 1。可在站内观看，并浏览剧本与图片资产。",
+    bilibiliUrl: "https://www.bilibili.com/video/BV1copY6XE3F/", bvid: "BV1copY6XE3F", role: [], tools: [], process: [],
+    episodes: [{title: "正片", bvid: "BV1copY6XE3F"}], assetsUrl: "/video/tvc-1/assets"
+  },
+  { id: 707, slug: "tvc-2", title: "TVC 2", category: "all", type: "video", year: "", duration: "—", demo: false,
+    cover: "/media/video/tvc-2/cover", description: "TVC 2。可在站内观看，并浏览剧本与图片资产。",
+    bilibiliUrl: "https://www.bilibili.com/video/BV1fwpe6EEcw/", bvid: "BV1fwpe6EEcw", role: [], tools: [], process: [],
+    episodes: [{title: "正片", bvid: "BV1fwpe6EEcw"}], assetsUrl: "/video/tvc-2/assets"
+  },
+  { id: 708, slug: "tvc-3", title: "TVC 3", category: "all", type: "video", year: "", duration: "—", demo: false,
+    cover: "/media/video/tvc-3/cover", description: "TVC 3。可在站内观看，并浏览剧本与图片资产。",
+    bilibiliUrl: "https://www.bilibili.com/video/BV1Bwpe6JErA/", bvid: "BV1Bwpe6JErA", role: [], tools: [], process: [],
+    episodes: [{title: "正片", bvid: "BV1Bwpe6JErA"}], assetsUrl: "/video/tvc-3/assets"
+  },
+  { id: 709, slug: "tvc-4", title: "TVC 4", category: "all", type: "video", year: "", duration: "—", demo: false,
+    cover: "/media/video/tvc-4/cover", description: "TVC 4。可在站内观看，并浏览剧本与图片资产。",
+    bilibiliUrl: "https://www.bilibili.com/video/BV1Bwpe6JEhC/", bvid: "BV1Bwpe6JEhC", role: [], tools: [], process: [],
+    episodes: [{title: "正片", bvid: "BV1Bwpe6JEhC"}], assetsUrl: "/video/tvc-4/assets"
+  },
+  { id: 710, slug: "ootd", title: "ootd", category: "all", type: "video", year: "", duration: "—", demo: false,
+    cover: "/media/video/ootd/cover", description: "ootd。可在站内观看，并浏览剧本与图片资产。",
+    bilibiliUrl: "https://www.bilibili.com/video/BV17wpe6JEQY/", bvid: "BV17wpe6JEQY", role: [], tools: [], process: [],
+    episodes: [{title: "正片", bvid: "BV17wpe6JEQY"}], assetsUrl: "/video/ootd/assets"
+  },
+  { id: 711, slug: "zhen-ren-ge-dou", title: "真人格斗（游戏）", category: "all", type: "video", year: "", duration: "—", demo: false,
+    cover: "/media/video/zhen-ren-ge-dou/cover", description: "真人格斗（游戏）。可在站内观看，并浏览剧本与图片资产。",
+    bilibiliUrl: "https://www.bilibili.com/video/BV1Ewpe6JEp5/", bvid: "BV1Ewpe6JEp5", role: [], tools: [], process: [],
+    episodes: [{title: "正片", bvid: "BV1Ewpe6JEp5"}], assetsUrl: "/video/zhen-ren-ge-dou/assets"
+  },
+  { id: 712, slug: "yi-cheng-jue-xing", title: "遗城觉醒（游戏宣传）", category: "all", type: "video", year: "", duration: "—", demo: false,
+    cover: "/media/video/yi-cheng-jue-xing/cover", description: "遗城觉醒（游戏宣传）。可在站内观看，并浏览剧本与图片资产。",
+    bilibiliUrl: "https://www.bilibili.com/video/BV1Ewpe6JEbs/", bvid: "BV1Ewpe6JEbs", role: [], tools: [], process: [],
+    episodes: [{title: "正片", bvid: "BV1Ewpe6JEbs"}], assetsUrl: "/video/yi-cheng-jue-xing/assets"
   },
   ...uploadedPosters,
   ...uploadedBanners,
@@ -145,21 +145,7 @@ export const projects: Project[] = [
   ...uploadedApps,
   ...uploadedLaunchPages,
   ...uploadedFonts,
-  ...[
-    { slug: "after-hours", title: "夜幕之后", category: "short-film", description: "探索城市入夜后氛围与情绪的短片概念。" },
-    { slug: "beyond-the-frame", title: "画面之外", category: "tvc", description: "围绕光影、形态与运动关系展开的商业影像概念。" },
-    { slug: "parallel-worlds", title: "平行世界", category: "ai-live-action", description: "通过电影视角探索陌生世界的人工智能影像概念。" },
-  ].map((item, index): VideoProject => ({
-    ...item, category: "all", id: 20 + index, type: "video", year: "2026", duration: "—", demo: true, selected: index < 2,
-    cover: `/media/video/${item.slug}/cover`, bilibiliUrl: "", role: ["概念策划", "创作方向", "剪辑"], tools: ["Premiere Pro", "After Effects"],
-    process: [
-      { title: "故事构思", text: "明确核心创意、情绪基调与叙事结构。" },
-      { title: "制作", text: "先建立分镜与视觉参考，再推进制作。" },
-      { title: "后期制作", text: "通过剪辑、声音与调色塑造影像节奏。" },
-    ],
-  })),
 ];
-
 export function getProject(type: Project["type"], slug: string) { return projects.find(p => p.type === type && p.slug === slug); }
 export function nextProject(project: Project) {
   const same = projects.filter(p => p.type === project.type);
