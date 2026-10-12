@@ -489,3 +489,5 @@ body:has(.personal-hero) .site-footer { display:none; }
 @media(max-width:767px) { .personal-hero { grid-template-columns:1fr; gap:32px; padding:32px 6vw; } .personal-photo { justify-self:center; max-width:360px; } .personal-photo img { max-height:none; } .personal-name { font-size:36px; margin-bottom:18px; } .personal-intro h1 { font-size:clamp(36px,8.5vw,58px); } .personal-tagline { font-size:13px; margin-top:22px; } }
 
 .artwork-frame { display:block; cursor:zoom-in; }
+
+.native-artwork-zoom{display:none;position:fixed;inset:0;z-index:9999;background:rgba(0,0,0,.96);padding:56px 3vw 24px;align-items:center;justify-content:center}.native-artwork-zoom:target{display:flex}.native-artwork-zoom img{max-width:94vw;max-height:88vh;width:auto;height:auto;object-fit:contain}.native-artwork-close{position:absolute;right:24px;top:16px;color:white;font-size:20px;z-index:1}
