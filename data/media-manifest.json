@@ -2954,6 +2954,236 @@
       }
     ]
   },
+  "/media/video/tvc-3/asset-01": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "bed879bff989659e8012cf2dbaa180c75d57738f91f103e1596aa0198dc31140",
+    "variants": [
+      {
+        "src": "/media/video/tvc-3/asset-01-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/tvc-3/asset-01-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/tvc-3/asset-01-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/tvc-3/asset-02": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "d7c6b22f7bd9476b21064a8758b40a7cffffaf0983933b59744177e98f1107c3",
+    "variants": [
+      {
+        "src": "/media/video/tvc-3/asset-02-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/tvc-3/asset-02-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/tvc-3/asset-02-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/tvc-3/asset-03": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "604194bc74aaac6c4576b077d53bb196bb8da889ca69937bd55c88a3a4a4bf10",
+    "variants": [
+      {
+        "src": "/media/video/tvc-3/asset-03-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/tvc-3/asset-03-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/tvc-3/asset-03-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/tvc-3/asset-04": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "8049fb9ca8aaf0929d8d65137feba1b0394b7e4f34ed1ae923519dcf7a64cfc0",
+    "variants": [
+      {
+        "src": "/media/video/tvc-3/asset-04-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/tvc-3/asset-04-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/tvc-3/asset-04-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/tvc-3/asset-05": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "c783a49290292521bddc9f3b2d4c3f4cdcdf818f5c67760fe68ac9f1d9255f01",
+    "variants": [
+      {
+        "src": "/media/video/tvc-3/asset-05-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/tvc-3/asset-05-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/tvc-3/asset-05-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/tvc-3/asset-06": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "4b40d68d201564683a405452f332f448b02233c9cb3892d40ec83a5872e5e18c",
+    "variants": [
+      {
+        "src": "/media/video/tvc-3/asset-06-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/tvc-3/asset-06-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/tvc-3/asset-06-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/tvc-3/asset-07": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "f84e7d55522ccc9fa2970a5c63961d890536fcbedcc302f9cae363048265cbbd",
+    "variants": [
+      {
+        "src": "/media/video/tvc-3/asset-07-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/tvc-3/asset-07-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/tvc-3/asset-07-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/tvc-3/asset-08": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "9e229843ad4fed7e9e7421e46f912ffc1afecbe76c518f33fd38d70e0b29805d",
+    "variants": [
+      {
+        "src": "/media/video/tvc-3/asset-08-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/tvc-3/asset-08-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/tvc-3/asset-08-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/tvc-3/asset-09": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "071cf25f48e5df010311dacb61a8408549a6da30cf103ec28dd9dfbaf6a46a94",
+    "variants": [
+      {
+        "src": "/media/video/tvc-3/asset-09-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/tvc-3/asset-09-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/tvc-3/asset-09-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/tvc-3/cover": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "071cf25f48e5df010311dacb61a8408549a6da30cf103ec28dd9dfbaf6a46a94",
+    "variants": [
+      {
+        "src": "/media/video/tvc-3/cover-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/tvc-3/cover-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/tvc-3/cover-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
   "/media/video/xiang-feng/asset-01": {
     "width": 1448,
     "height": 1086,
