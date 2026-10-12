@@ -2056,5 +2056,304 @@
         "height": 1080
       }
     ]
+  },
+  "/media/video/yue-jie-guan-xi/asset-01": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "8239abec9e312366e225c3402a8d094d95f2f70b0e2021acc5c441ad427b3977",
+    "variants": [
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-01-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-01-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-01-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/video/yue-jie-guan-xi/asset-02": {
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": false,
+    "hash": "a8ca46fef78cdf2258888cba10d363c0d7af382eb2d909d4563882a079455b60",
+    "variants": [
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-02-640.webp",
+        "width": 640,
+        "height": 427
+      },
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-02-960.webp",
+        "width": 960,
+        "height": 640
+      },
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-02-1440.webp",
+        "width": 1440,
+        "height": 960
+      }
+    ]
+  },
+  "/media/video/yue-jie-guan-xi/asset-03": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "5108cd63be67bd320afc1bbd0bb213694cff31b177fc28a3412ed584859ede25",
+    "variants": [
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-03-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-03-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-03-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/video/yue-jie-guan-xi/asset-04": {
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": false,
+    "hash": "ec27cf2f87b69f4d503aed2b10c5445b9965352691d23188c9f099b86a50927b",
+    "variants": [
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-04-640.webp",
+        "width": 640,
+        "height": 427
+      },
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-04-960.webp",
+        "width": 960,
+        "height": 640
+      },
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-04-1440.webp",
+        "width": 1440,
+        "height": 960
+      }
+    ]
+  },
+  "/media/video/yue-jie-guan-xi/asset-05": {
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": false,
+    "hash": "f7ee0f727b67692d01f462ba6c8150625b8c76c0baa2a8356870935a07d810a5",
+    "variants": [
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-05-640.webp",
+        "width": 640,
+        "height": 427
+      },
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-05-960.webp",
+        "width": 960,
+        "height": 640
+      },
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-05-1440.webp",
+        "width": 1440,
+        "height": 960
+      }
+    ]
+  },
+  "/media/video/yue-jie-guan-xi/asset-06": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "6beaa39945e9d3fbb6404023e49012999b9c84637b7e74a1e94e59a72e73325a",
+    "variants": [
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-06-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-06-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-06-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/video/yue-jie-guan-xi/asset-07": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "e0852857b5f43a8ef2bcaaa66bb32d8381389dda2b95e7d3b62ccdd75da07bda",
+    "variants": [
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-07-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-07-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-07-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/video/yue-jie-guan-xi/asset-08": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "8a14458e276f41d2025885a286ab1ae9b0a13114ea56e8ab1accc78b69fa66bf",
+    "variants": [
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-08-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-08-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-08-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/video/yue-jie-guan-xi/asset-09": {
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": false,
+    "hash": "f7ee0f727b67692d01f462ba6c8150625b8c76c0baa2a8356870935a07d810a5",
+    "variants": [
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-09-640.webp",
+        "width": 640,
+        "height": 427
+      },
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-09-960.webp",
+        "width": 960,
+        "height": 640
+      },
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-09-1440.webp",
+        "width": 1440,
+        "height": 960
+      }
+    ]
+  },
+  "/media/video/yue-jie-guan-xi/asset-10": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "e2a1647a1753c7977bd333522c5b036388ff3dc3d4e31e295cdee42887d53f54",
+    "variants": [
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-10-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-10-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-10-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/video/yue-jie-guan-xi/asset-11": {
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": false,
+    "hash": "ea0d825ebb95a74d2aba87e436a5a53ef020e2e53c272a0ac0331327d30d4465",
+    "variants": [
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-11-640.webp",
+        "width": 640,
+        "height": 427
+      },
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-11-960.webp",
+        "width": 960,
+        "height": 640
+      },
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-11-1440.webp",
+        "width": 1440,
+        "height": 960
+      }
+    ]
+  },
+  "/media/video/yue-jie-guan-xi/asset-12": {
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": false,
+    "hash": "ca0e20f61fd752ed98ebbd355855c3247f13e455247873fccf7ce2fb3d666084",
+    "variants": [
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-12-640.webp",
+        "width": 640,
+        "height": 427
+      },
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-12-960.webp",
+        "width": 960,
+        "height": 640
+      },
+      {
+        "src": "/media/video/yue-jie-guan-xi/asset-12-1440.webp",
+        "width": 1440,
+        "height": 960
+      }
+    ]
+  },
+  "/media/video/yue-jie-guan-xi/cover": {
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": false,
+    "hash": "ca0e20f61fd752ed98ebbd355855c3247f13e455247873fccf7ce2fb3d666084",
+    "variants": [
+      {
+        "src": "/media/video/yue-jie-guan-xi/cover-640.webp",
+        "width": 640,
+        "height": 427
+      },
+      {
+        "src": "/media/video/yue-jie-guan-xi/cover-960.webp",
+        "width": 960,
+        "height": 640
+      },
+      {
+        "src": "/media/video/yue-jie-guan-xi/cover-1440.webp",
+        "width": 1440,
+        "height": 960
+      }
+    ]
   }
 }

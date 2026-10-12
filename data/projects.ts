@@ -74,6 +74,11 @@ const uploadedFonts: DesignProject[] = [1, 2, 3].map((number, index) => ({
 }));
 
 export const projects: Project[] = [
+  { id: 702, slug: "yue-jie-guan-xi", title: "越界关系", category: "all", type: "video", year: "", duration: "—", demo: false,
+    cover: "/media/video/yue-jie-guan-xi/cover", description: "越界关系 · 第 1 集、第 2 集。可在站内选集观看，并浏览剧本与图片资产。",
+    bilibiliUrl: "https://www.bilibili.com/video/BV1y8pe6FE1Y/", bvid: "BV1y8pe6FE1Y", role: [], tools: [], process: [],
+    episodes: [{title: "第 1 集", bvid: "BV1y8pe6FE1Y"}, {title: "第 2 集", bvid: "BV1y8pe6FEqv"}], assetsUrl: "/video/yue-jie-guan-xi/assets"
+  },
   { id: 701, slug: "heart", title: "Heart", category: "all", type: "video", year: "", duration: "—", demo: false,
     cover: "/media/video/heart/cover", description: "Heart · 第 1 集、第 2 集。可在站内选集观看，并浏览剧本与图片资产。",
     bilibiliUrl: "https://www.bilibili.com/video/BV1y8pe6FEmr/", bvid: "BV1y8pe6FEmr", role: [], tools: [], process: [],
