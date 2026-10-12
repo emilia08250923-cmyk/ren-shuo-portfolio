@@ -3644,6 +3644,167 @@
       }
     ]
   },
+  "/media/video/yi-cheng-jue-xing/asset-01": {
+    "width": 1536,
+    "height": 1024,
+    "hasAlpha": false,
+    "hash": "d8442fd2961894042b37f0e3de49be9efc162a9b26c9ccaa7979d6671c4d9f6b",
+    "variants": [
+      {
+        "src": "/media/video/yi-cheng-jue-xing/asset-01-640.webp",
+        "width": 640,
+        "height": 427
+      },
+      {
+        "src": "/media/video/yi-cheng-jue-xing/asset-01-960.webp",
+        "width": 960,
+        "height": 640
+      },
+      {
+        "src": "/media/video/yi-cheng-jue-xing/asset-01-1440.webp",
+        "width": 1440,
+        "height": 960
+      }
+    ]
+  },
+  "/media/video/yi-cheng-jue-xing/asset-02": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "9aa5d92a86236995373df0475936a7d243add5fbc11708f47ee762a552a7108c",
+    "variants": [
+      {
+        "src": "/media/video/yi-cheng-jue-xing/asset-02-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/yi-cheng-jue-xing/asset-02-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/yi-cheng-jue-xing/asset-02-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/yi-cheng-jue-xing/asset-03": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "a17771e818b79c444bbd8b03004b7bdd6f8c88938539b93e2206d3531240797c",
+    "variants": [
+      {
+        "src": "/media/video/yi-cheng-jue-xing/asset-03-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/yi-cheng-jue-xing/asset-03-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/yi-cheng-jue-xing/asset-03-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/yi-cheng-jue-xing/asset-04": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "4ead18e7265a79d289f34f32ec497acd049d6f94a12b865a846d2067a3e009e2",
+    "variants": [
+      {
+        "src": "/media/video/yi-cheng-jue-xing/asset-04-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/yi-cheng-jue-xing/asset-04-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/yi-cheng-jue-xing/asset-04-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/yi-cheng-jue-xing/asset-05": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "fcd8e69e495726808c18bc1f1bc4df4993a540e2a8be2d687408b761ecd4a9c1",
+    "variants": [
+      {
+        "src": "/media/video/yi-cheng-jue-xing/asset-05-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/yi-cheng-jue-xing/asset-05-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/yi-cheng-jue-xing/asset-05-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/yi-cheng-jue-xing/asset-06": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "afe3dc6ce62ff908ca88915817d6e04ec5c585af899881451b2ff5e7ff31458c",
+    "variants": [
+      {
+        "src": "/media/video/yi-cheng-jue-xing/asset-06-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/yi-cheng-jue-xing/asset-06-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/yi-cheng-jue-xing/asset-06-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/yi-cheng-jue-xing/cover": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "9aa5d92a86236995373df0475936a7d243add5fbc11708f47ee762a552a7108c",
+    "variants": [
+      {
+        "src": "/media/video/yi-cheng-jue-xing/cover-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/yi-cheng-jue-xing/cover-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/yi-cheng-jue-xing/cover-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
   "/media/video/yue-jie-guan-xi/asset-01": {
     "width": 1672,
     "height": 941,
