@@ -2236,6 +2236,213 @@
       }
     ]
   },
+  "/media/video/niu-tou-ren/asset-01": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "282cc179c535fbe48d7e912dd7d9a83d7671e5134f795691e13cf8e357b8ce91",
+    "variants": [
+      {
+        "src": "/media/video/niu-tou-ren/asset-01-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/niu-tou-ren/asset-01-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/niu-tou-ren/asset-01-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/niu-tou-ren/asset-02": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "adbc6dc84fa94f020237c9965d7bd1ea1fc67fc5d257a5b0cea6fc6a50ca1802",
+    "variants": [
+      {
+        "src": "/media/video/niu-tou-ren/asset-02-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/niu-tou-ren/asset-02-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/niu-tou-ren/asset-02-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/niu-tou-ren/asset-03": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "274be2ca725fa91679f3c53485e59b5334d1f4c900cb0d5ea72df3cf1a776e51",
+    "variants": [
+      {
+        "src": "/media/video/niu-tou-ren/asset-03-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/niu-tou-ren/asset-03-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/niu-tou-ren/asset-03-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/niu-tou-ren/asset-04": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "6b9dddceeee3cacb0887302a5afa69e3ff53b085594ee17f016af495e32e7691",
+    "variants": [
+      {
+        "src": "/media/video/niu-tou-ren/asset-04-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/niu-tou-ren/asset-04-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/niu-tou-ren/asset-04-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/niu-tou-ren/asset-05": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "e785b30e8130882501739805c3539751423c49e38fae8a3b5a2ffbdfa58f66bd",
+    "variants": [
+      {
+        "src": "/media/video/niu-tou-ren/asset-05-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/niu-tou-ren/asset-05-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/niu-tou-ren/asset-05-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/niu-tou-ren/asset-06": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "4cede22acffcfb992a116224690e8e9569ddd99ed9ac94f340435129bc818efb",
+    "variants": [
+      {
+        "src": "/media/video/niu-tou-ren/asset-06-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/niu-tou-ren/asset-06-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/niu-tou-ren/asset-06-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/niu-tou-ren/asset-07": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "684d9f56dbc9047c3b23e4236c5fb2d58d0297804d457c95d90844852536ff03",
+    "variants": [
+      {
+        "src": "/media/video/niu-tou-ren/asset-07-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/niu-tou-ren/asset-07-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/niu-tou-ren/asset-07-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/niu-tou-ren/asset-08": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "c8864af163365b2a8848e405b0cb0f68f7cedf7e81dfdbfa5866989010101bbf",
+    "variants": [
+      {
+        "src": "/media/video/niu-tou-ren/asset-08-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/niu-tou-ren/asset-08-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/niu-tou-ren/asset-08-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/niu-tou-ren/cover": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "274be2ca725fa91679f3c53485e59b5334d1f4c900cb0d5ea72df3cf1a776e51",
+    "variants": [
+      {
+        "src": "/media/video/niu-tou-ren/cover-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/niu-tou-ren/cover-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/niu-tou-ren/cover-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
   "/media/video/parallel-worlds/cover": {
     "width": 1920,
     "height": 1080,

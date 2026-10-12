@@ -74,6 +74,11 @@ const uploadedFonts: DesignProject[] = [1, 2, 3].map((number, index) => ({
 }));
 
 export const projects: Project[] = [
+  { id: 704, slug: "niu-tou-ren", title: "牛头人", category: "all", type: "video", year: "", duration: "—", demo: false,
+    cover: "/media/video/niu-tou-ren/cover", description: "牛头人。可在站内观看，并浏览剧本与图片资产。",
+    bilibiliUrl: "https://www.bilibili.com/video/BV1zfpY6HE2Q/", bvid: "BV1zfpY6HE2Q", role: [], tools: [], process: [],
+    episodes: [{title: "正片", bvid: "BV1zfpY6HE2Q"}], assetsUrl: "/video/niu-tou-ren/assets"
+  },
   { id: 703, slug: "hun-yin-bei-pan", title: "婚姻背叛", category: "all", type: "video", year: "", duration: "—", demo: false,
     cover: "/media/video/hun-yin-bei-pan/cover", description: "婚姻背叛。可在站内观看，并浏览剧本与图片资产。",
     bilibiliUrl: "https://www.bilibili.com/video/BV1FfpY6HEaA/", bvid: "BV1FfpY6HEaA", role: [], tools: [], process: [],
