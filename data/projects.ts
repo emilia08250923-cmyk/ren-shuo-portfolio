@@ -23,16 +23,6 @@ export function categoryLabel(project: Pick<Project, "type" | "category">) {
   return (project.type === "design" ? designCategories : videoCategories).find(c => c.id === project.category)?.label ?? project.category;
 }
 
-const designSeed = [
-  ["form-shift", "形态转换", "poster", "normal", "一组编辑风格海报实验，探索大字号、几何形态与留白之间的张力。"],
-  ["objects-of-tomorrow", "未来物件", "app-icon", "showcase", "以日常物件与几何形态为起点，探索鲜明、简洁且易于识别的 App 图标视觉方向。"],
-  ["soft-signal", "柔和信号", "ip-design", "showcase", "以角色为核心，探索柔和几何、亲切轮廓与富有趣味的视觉识别。"],
-  ["type-in-motion", "文字律动", "typography", "normal", "通过节奏与重复，让文字本身成为视觉材料的字体实验。"],
-  ["new-perspectives", "全新视角", "banner", "normal", "以模块化方式，将同一视觉创意延展至横向与纵向构图。"],
-  ["open-form", "开放形态", "launch-page", "normal", "运用清晰网格、大标题和有序节奏，探索数字界面的视觉方向。"],
-  ["quiet-garden", "静谧花园", "poster", "normal", "在有机形态、平面色彩与柔和对比之间寻找平衡的插画海报实验。"],
-] as const;
-
 const uploadedPosters: DesignProject[] = [1, 2, 3, 4, 7, 8, 9, 10].map((number, index) => ({
   id: 100 + number, slug: `poster-${String(number).padStart(2, "0")}`, title: `海报 ${index + 1}`,
   category: "poster", type: "design", year: "2026", demo: false, carouselType: "normal",
@@ -78,23 +68,22 @@ const uploadedLaunchPages: DesignProject[] = [1, 2, 3].map((number, index) => ({
   images: [{ base: `/media/design/launch-page-${String(number).padStart(2, "0")}/cover`, alt: `启动页 ${index + 1} 完整作品` }],
 }));
 
+const uploadedFonts: DesignProject[] = [1, 2, 3].map((number, index) => ({
+  id: 600 + number, slug: `typography-${String(number).padStart(2, "0")}`, title: `字体设计 ${index + 1}`,
+  category: "typography", type: "design", year: "", demo: false, carouselType: "normal", selected: index === 0,
+  cover: `/media/design/typography-${String(number).padStart(2, "0")}/cover`,
+  description: "字体设计设计作品，点击图片可按原始比例放大查看。",
+  role: ["字体设计设计"], tools: ["待补充"], process: [],
+  images: [{ base: `/media/design/typography-${String(number).padStart(2, "0")}/cover`, alt: `字体设计 ${index + 1} 完整作品` }],
+}));
+
 export const projects: Project[] = [
   ...uploadedPosters,
   ...uploadedBanners,
   ...uploadedIPs,
   ...uploadedApps,
   ...uploadedLaunchPages,
-  ...designSeed.filter(item => item[2] !== "poster" && item[2] !== "banner" && item[2] !== "ip-design" && item[2] !== "app-icon" && item[2] !== "launch-page").map(([slug, title, category, carouselType, description], index): DesignProject => ({
-    id: index + 1, slug, title, category, carouselType, description, type: "design", year: "2026",
-    cover: `/media/design/${slug}/cover`, selected: index < 4, demo: true,
-    role: ["概念开发", "视觉指导", "视觉设计"], tools: ["Illustrator", "Photoshop"],
-    images: ["01", "02", "03"].map((name, i) => ({ base: `/media/design/${slug}/${name}`, alt: `${title} — 概念构图 ${i + 1}` })),
-    process: [
-      { title: "创作方向", text: "从明确的视觉问题出发，确定字体与色彩方向。" },
-      { title: "视觉探索", text: "在不同尺寸与媒介中，测试比例、间距和构图。" },
-      { title: "视觉系统", text: "整合最有表现力的元素，形成统一的视觉语言。" },
-    ],
-  })),
+  ...uploadedFonts,
   ...[
     { slug: "after-hours", title: "夜幕之后", category: "short-film", description: "探索城市入夜后氛围与情绪的短片概念。" },
     { slug: "beyond-the-frame", title: "画面之外", category: "tvc", description: "围绕光影、形态与运动关系展开的商业影像概念。" },

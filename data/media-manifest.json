@@ -1375,6 +1375,75 @@
       }
     ]
   },
+  "/media/design/typography-01/cover": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "025fa2bad3dccb89f5ddb922bc0014f1ac64976b568c6bd7e5e3faf833d3b873",
+    "variants": [
+      {
+        "src": "/media/design/typography-01/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/typography-01/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/typography-01/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/design/typography-02/cover": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "bb19a0d46453121cb0b9c36a0894daf8b1f5e14fa4aad5d9fd1c4524327fc689",
+    "variants": [
+      {
+        "src": "/media/design/typography-02/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/typography-02/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/typography-02/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/design/typography-03/cover": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "aa9374ce831ab4e3ae3ef4778b56e1e590c177bce2da4e340426d549ace0dc31",
+    "variants": [
+      {
+        "src": "/media/design/typography-03/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/design/typography-03/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/design/typography-03/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
   "/media/video/after-hours/cover": {
     "width": 1920,
     "height": 1080,
