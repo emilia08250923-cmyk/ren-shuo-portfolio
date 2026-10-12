@@ -2471,6 +2471,236 @@
       }
     ]
   },
+  "/media/video/xiang-feng/asset-01": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "953a76de0e6e60318df4c5ba8ed564cd93ef7a36ef03a2e23052a377a0687aa9",
+    "variants": [
+      {
+        "src": "/media/video/xiang-feng/asset-01-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/xiang-feng/asset-01-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/xiang-feng/asset-01-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/xiang-feng/asset-02": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "05b40177d300e75c4f05fc0a6faa8fe701f964574c264c3d934455f9f4625aee",
+    "variants": [
+      {
+        "src": "/media/video/xiang-feng/asset-02-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/xiang-feng/asset-02-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/xiang-feng/asset-02-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/xiang-feng/asset-03": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "c75d7a97504e9579f0c1fd3d3f8bdb554a0d653585ca0b9829ee6c90b6e7d741",
+    "variants": [
+      {
+        "src": "/media/video/xiang-feng/asset-03-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/xiang-feng/asset-03-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/xiang-feng/asset-03-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/xiang-feng/asset-04": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "9938b98c9f6d0f1024a10e09237965376597eb21f5cd41c91f0c69244ca0c861",
+    "variants": [
+      {
+        "src": "/media/video/xiang-feng/asset-04-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/xiang-feng/asset-04-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/xiang-feng/asset-04-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/xiang-feng/asset-05": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "ca68ed6f180b7b137e18f4b5e6a4a999017bfecac12ca02b49b99000957503cf",
+    "variants": [
+      {
+        "src": "/media/video/xiang-feng/asset-05-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/xiang-feng/asset-05-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/xiang-feng/asset-05-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/xiang-feng/asset-06": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "0dc8a67b26a6a33f662c70bf5d26032b86a51e7af2a27f863d35bed68b56aa26",
+    "variants": [
+      {
+        "src": "/media/video/xiang-feng/asset-06-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/xiang-feng/asset-06-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/xiang-feng/asset-06-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/xiang-feng/asset-07": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "63d4dd423ceaeddf6a0d340fc46599700000fa83adc59f8f2976475210aaac30",
+    "variants": [
+      {
+        "src": "/media/video/xiang-feng/asset-07-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/xiang-feng/asset-07-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/xiang-feng/asset-07-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/xiang-feng/asset-08": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "23fa295f666b11db3c05eee0778f75ee008675b3862f98503e46461b27646dba",
+    "variants": [
+      {
+        "src": "/media/video/xiang-feng/asset-08-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/xiang-feng/asset-08-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/xiang-feng/asset-08-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/xiang-feng/asset-09": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "b54861411986f753452c820a2184c828fee4a06c34847eba4e45be1c32eb3a01",
+    "variants": [
+      {
+        "src": "/media/video/xiang-feng/asset-09-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/xiang-feng/asset-09-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/xiang-feng/asset-09-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/xiang-feng/cover": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "0dc8a67b26a6a33f662c70bf5d26032b86a51e7af2a27f863d35bed68b56aa26",
+    "variants": [
+      {
+        "src": "/media/video/xiang-feng/cover-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/xiang-feng/cover-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/xiang-feng/cover-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
   "/media/video/yue-jie-guan-xi/asset-01": {
     "width": 1672,
     "height": 941,
