@@ -1776,6 +1776,259 @@
       }
     ]
   },
+  "/media/video/heart/asset-01": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "2a94e5fef19a6c0657bef0402c1c25b14d791738d173a4b541abded0f7f1ae55",
+    "variants": [
+      {
+        "src": "/media/video/heart/asset-01-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/heart/asset-01-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/heart/asset-01-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/video/heart/asset-02": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "00815e7533874b9fffcd72f223c2266243f4002b45a6b739bbc5e09cbe944ec1",
+    "variants": [
+      {
+        "src": "/media/video/heart/asset-02-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/heart/asset-02-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/heart/asset-02-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/video/heart/asset-03": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "469e3e5073af2d5e0593b9c15a21249c1be1e6fa7f04c990b6cb25a3e756abf5",
+    "variants": [
+      {
+        "src": "/media/video/heart/asset-03-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/heart/asset-03-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/heart/asset-03-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/video/heart/asset-04": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "602db44a03bf2bc067553f0c920bbc7cd3400d9198836149732a9bc689283b01",
+    "variants": [
+      {
+        "src": "/media/video/heart/asset-04-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/heart/asset-04-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/heart/asset-04-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/video/heart/asset-05": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "81fccf7f898f8b824b68b88fe97e2d95149947c031e0a80aa276a5b8f3d1c331",
+    "variants": [
+      {
+        "src": "/media/video/heart/asset-05-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/heart/asset-05-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/heart/asset-05-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/video/heart/asset-06": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "48a0065aeda73d318e118d35d2f7a8b4141cce5db71862598e131c28454beb96",
+    "variants": [
+      {
+        "src": "/media/video/heart/asset-06-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/heart/asset-06-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/heart/asset-06-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/video/heart/asset-07": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "75dbd248066939f38c16edbbed4504c4d2f59781b3696659200c0e4037f34afa",
+    "variants": [
+      {
+        "src": "/media/video/heart/asset-07-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/heart/asset-07-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/heart/asset-07-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/video/heart/asset-08": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "a8be9bf8dc9c4a85520111058772febe33be7663745d97e0b7c0728a94bf24ac",
+    "variants": [
+      {
+        "src": "/media/video/heart/asset-08-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/heart/asset-08-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/heart/asset-08-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/video/heart/asset-09": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "4f3cceb568e717492cd12744174ce8a4ef896934b5eade988861d5774b47e29a",
+    "variants": [
+      {
+        "src": "/media/video/heart/asset-09-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/heart/asset-09-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/heart/asset-09-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/video/heart/asset-10": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "caea948b9c134e9124a991846a047b2db6d0c6fec18634a681946338b1769743",
+    "variants": [
+      {
+        "src": "/media/video/heart/asset-10-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/heart/asset-10-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/heart/asset-10-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
+  "/media/video/heart/cover": {
+    "width": 1672,
+    "height": 941,
+    "hasAlpha": false,
+    "hash": "4f3cceb568e717492cd12744174ce8a4ef896934b5eade988861d5774b47e29a",
+    "variants": [
+      {
+        "src": "/media/video/heart/cover-640.webp",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "src": "/media/video/heart/cover-960.webp",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "src": "/media/video/heart/cover-1440.webp",
+        "width": 1440,
+        "height": 810
+      }
+    ]
+  },
   "/media/video/parallel-worlds/cover": {
     "width": 1920,
     "height": 1080,

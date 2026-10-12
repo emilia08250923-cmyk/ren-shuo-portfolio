@@ -13,13 +13,9 @@ export const designCategories = [
   { id: "ip-design", label: "IP" }, { id: "app-icon", label: "App 图标" },
   { id: "launch-page", label: "启动页" }, { id: "typography", label: "字体设计" },
 ];
-export const videoCategories = [
-  { id: "all", label: "全部" }, { id: "comic-drama", label: "漫剧" },
-  { id: "ai-live-action", label: "人工智能真人短剧" }, { id: "tvc", label: "电视广告" },
-  { id: "game-promo", label: "游戏宣传片" }, { id: "promotion", label: "推广与种草" },
-  { id: "short-film", label: "短片" }, { id: "entertainment", label: "娱乐短视频" },
-];
+export const videoCategories = [{ id: "all", label: "全部" }];
 export function categoryLabel(project: Pick<Project, "type" | "category">) {
+  if (project.type === "video") return "视频作品";
   return (project.type === "design" ? designCategories : videoCategories).find(c => c.id === project.category)?.label ?? project.category;
 }
 
@@ -78,7 +74,12 @@ const uploadedFonts: DesignProject[] = [1, 2, 3].map((number, index) => ({
 }));
 
 export const projects: Project[] = [
-  { id: 700, slug: "chuan-yue-fan-pai", title: "穿越反派", category: "comic-drama", type: "video", year: "", duration: "—", demo: false,
+  { id: 701, slug: "heart", title: "Heart", category: "all", type: "video", year: "", duration: "—", demo: false,
+    cover: "/media/video/heart/cover", description: "Heart · 第 1 集、第 2 集。可在站内选集观看，并浏览剧本与图片资产。",
+    bilibiliUrl: "https://www.bilibili.com/video/BV1y8pe6FEmr/", bvid: "BV1y8pe6FEmr", role: [], tools: [], process: [],
+    episodes: [{title: "第 1 集", bvid: "BV1y8pe6FEmr"}, {title: "第 2 集", bvid: "BV1s8pe6cEDy"}], assetsUrl: "/video/heart/assets"
+  },
+  { id: 700, slug: "chuan-yue-fan-pai", title: "穿越反派", category: "all", type: "video", year: "", duration: "—", demo: false,
     cover: "/media/video/chuan-yue-fan-pai/cover", description: "漫剧《穿越反派》· 第 1 集、第 2 集。可在站内选集观看，并浏览剧本与图片资产。",
     bilibiliUrl: "https://www.bilibili.com/video/BV1Ntpe6aEfx/", bvid: "BV1Ntpe6aEfx", role: ["待补充"], tools: ["待补充"], process: [],
     episodes: [{title: "第 1 集", bvid: "BV1Ntpe6aEfx"}, {title: "第 2 集", bvid: "BV1Cape6ZEJ2"}], assetsUrl: "/video/chuan-yue-fan-pai/assets"
@@ -94,7 +95,7 @@ export const projects: Project[] = [
     { slug: "beyond-the-frame", title: "画面之外", category: "tvc", description: "围绕光影、形态与运动关系展开的商业影像概念。" },
     { slug: "parallel-worlds", title: "平行世界", category: "ai-live-action", description: "通过电影视角探索陌生世界的人工智能影像概念。" },
   ].map((item, index): VideoProject => ({
-    ...item, id: 20 + index, type: "video", year: "2026", duration: "—", demo: true, selected: index < 2,
+    ...item, category: "all", id: 20 + index, type: "video", year: "2026", duration: "—", demo: true, selected: index < 2,
     cover: `/media/video/${item.slug}/cover`, bilibiliUrl: "", role: ["概念策划", "创作方向", "剪辑"], tools: ["Premiere Pro", "After Effects"],
     process: [
       { title: "故事构思", text: "明确核心创意、情绪基调与叙事结构。" },
