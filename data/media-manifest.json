@@ -3942,5 +3942,143 @@
         "height": 960
       }
     ]
+  },
+  "/media/video/zhen-ren-ge-dou/asset-01": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "a89d86068fefb911416521b169e929c94a09dd9d2e63089caa2eb21c50353921",
+    "variants": [
+      {
+        "src": "/media/video/zhen-ren-ge-dou/asset-01-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/zhen-ren-ge-dou/asset-01-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/zhen-ren-ge-dou/asset-01-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/zhen-ren-ge-dou/asset-02": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "8dab684d40e80e2b7e700e4757032a0687b4cd348b34d0cedcb93f5203825042",
+    "variants": [
+      {
+        "src": "/media/video/zhen-ren-ge-dou/asset-02-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/zhen-ren-ge-dou/asset-02-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/zhen-ren-ge-dou/asset-02-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/zhen-ren-ge-dou/asset-03": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "0c9cb8604555eec4a636a306e10bd78639e54b2800f5adae75a754052dc753eb",
+    "variants": [
+      {
+        "src": "/media/video/zhen-ren-ge-dou/asset-03-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/zhen-ren-ge-dou/asset-03-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/zhen-ren-ge-dou/asset-03-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/zhen-ren-ge-dou/asset-04": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "53a68df7439bb7c3bd89e730b0d9c6637d9b1c9b955dfe9ab3ae51b0ee7897e2",
+    "variants": [
+      {
+        "src": "/media/video/zhen-ren-ge-dou/asset-04-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/zhen-ren-ge-dou/asset-04-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/zhen-ren-ge-dou/asset-04-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/zhen-ren-ge-dou/asset-05": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "529d655e5dc46c019d8a33b8d1bcee17032b3dce0241d0c16d3cf9f141b56c38",
+    "variants": [
+      {
+        "src": "/media/video/zhen-ren-ge-dou/asset-05-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/zhen-ren-ge-dou/asset-05-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/zhen-ren-ge-dou/asset-05-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/zhen-ren-ge-dou/cover": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "53a68df7439bb7c3bd89e730b0d9c6637d9b1c9b955dfe9ab3ae51b0ee7897e2",
+    "variants": [
+      {
+        "src": "/media/video/zhen-ren-ge-dou/cover-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/zhen-ren-ge-dou/cover-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/zhen-ren-ge-dou/cover-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
   }
 }

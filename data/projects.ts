@@ -79,6 +79,11 @@ export const projects: Project[] = [
     bilibiliUrl: "https://www.bilibili.com/video/BV1Bwpe6JEhC/", bvid: "BV1Bwpe6JEhC", role: [], tools: [], process: [],
     episodes: [{title: "正片", bvid: "BV1Bwpe6JEhC"}], assetsUrl: "/video/tvc-4/assets"
   },
+  { id: 711, slug: "zhen-ren-ge-dou", title: "真人格斗（游戏）", category: "all", type: "video", year: "", duration: "—", demo: false,
+    cover: "/media/video/zhen-ren-ge-dou/cover", description: "真人格斗（游戏）。可在站内观看，并浏览剧本与图片资产。",
+    bilibiliUrl: "https://www.bilibili.com/video/BV1Ewpe6JEp5/", bvid: "BV1Ewpe6JEp5", role: [], tools: [], process: [],
+    episodes: [{title: "正片", bvid: "BV1Ewpe6JEp5"}], assetsUrl: "/video/zhen-ren-ge-dou/assets"
+  },
   { id: 710, slug: "ootd", title: "ootd", category: "all", type: "video", year: "", duration: "—", demo: false,
     cover: "/media/video/ootd/cover", description: "ootd。可在站内观看，并浏览剧本与图片资产。",
     bilibiliUrl: "https://www.bilibili.com/video/BV17wpe6JEQY/", bvid: "BV17wpe6JEQY", role: [], tools: [], process: [],
