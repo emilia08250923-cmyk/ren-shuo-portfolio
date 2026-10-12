@@ -74,6 +74,11 @@ const uploadedFonts: DesignProject[] = [1, 2, 3].map((number, index) => ({
 }));
 
 export const projects: Project[] = [
+  { id: 706, slug: "tvc-1", title: "TVC 1", category: "all", type: "video", year: "", duration: "—", demo: false,
+    cover: "/media/video/tvc-1/cover", description: "TVC 1。可在站内观看，并浏览剧本与图片资产。",
+    bilibiliUrl: "https://www.bilibili.com/video/BV1copY6XE3F/", bvid: "BV1copY6XE3F", role: [], tools: [], process: [],
+    episodes: [{title: "正片", bvid: "BV1copY6XE3F"}], assetsUrl: "/video/tvc-1/assets"
+  },
   { id: 705, slug: "xiang-feng", title: "相逢", category: "all", type: "video", year: "", duration: "—", demo: false,
     cover: "/media/video/xiang-feng/cover", description: "相逢。可在站内观看，并浏览剧本与图片资产。",
     bilibiliUrl: "https://www.bilibili.com/video/BV1FfpY6HE3k/", bvid: "BV1FfpY6HE3k", role: [], tools: [], process: [],
