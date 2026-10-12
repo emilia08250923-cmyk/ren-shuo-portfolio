@@ -74,6 +74,16 @@ const uploadedFonts: DesignProject[] = [1, 2, 3].map((number, index) => ({
 }));
 
 export const projects: Project[] = [
+  { id: 709, slug: "tvc-4", title: "TVC 4", category: "all", type: "video", year: "", duration: "—", demo: false,
+    cover: "/media/video/tvc-4/cover", description: "TVC 4。可在站内观看，并浏览剧本与图片资产。",
+    bilibiliUrl: "https://www.bilibili.com/video/BV1Bwpe6JEhC/", bvid: "BV1Bwpe6JEhC", role: [], tools: [], process: [],
+    episodes: [{title: "正片", bvid: "BV1Bwpe6JEhC"}], assetsUrl: "/video/tvc-4/assets"
+  },
+  { id: 710, slug: "ootd", title: "ootd", category: "all", type: "video", year: "", duration: "—", demo: false,
+    cover: "/media/video/ootd/cover", description: "ootd。可在站内观看，并浏览剧本与图片资产。",
+    bilibiliUrl: "https://www.bilibili.com/video/BV17wpe6JEQY/", bvid: "BV17wpe6JEQY", role: [], tools: [], process: [],
+    episodes: [{title: "正片", bvid: "BV17wpe6JEQY"}], assetsUrl: "/video/ootd/assets"
+  },
   { id: 708, slug: "tvc-3", title: "TVC 3", category: "all", type: "video", year: "", duration: "—", demo: false,
     cover: "/media/video/tvc-3/cover", description: "TVC 3。可在站内观看，并浏览剧本与图片资产。",
     bilibiliUrl: "https://www.bilibili.com/video/BV1Bwpe6JErA/", bvid: "BV1Bwpe6JErA", role: [], tools: [], process: [],

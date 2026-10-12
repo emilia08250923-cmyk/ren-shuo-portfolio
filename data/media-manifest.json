@@ -2443,6 +2443,121 @@
       }
     ]
   },
+  "/media/video/ootd/asset-01": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "aba5c9f7095537ba28d7cb21c68e6c840687d0b4a884b8b68980b3dfe5939c59",
+    "variants": [
+      {
+        "src": "/media/video/ootd/asset-01-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/ootd/asset-01-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/ootd/asset-01-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/ootd/asset-02": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "7b58e3dcf53de5449966128b7da4edaaf5ab554e31d45a57f834fc4048208b85",
+    "variants": [
+      {
+        "src": "/media/video/ootd/asset-02-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/ootd/asset-02-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/ootd/asset-02-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/ootd/asset-03": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "84daf4cb371114e146ed5420e7540d0f964c766df48a2abe944c6e86c95fa6dd",
+    "variants": [
+      {
+        "src": "/media/video/ootd/asset-03-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/ootd/asset-03-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/ootd/asset-03-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/ootd/asset-04": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "665f484de3a6df6da7141d42c467d9c4781ebf04e3323a6d62d6c8d403b4c256",
+    "variants": [
+      {
+        "src": "/media/video/ootd/asset-04-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/ootd/asset-04-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/ootd/asset-04-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/ootd/cover": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "665f484de3a6df6da7141d42c467d9c4781ebf04e3323a6d62d6c8d403b4c256",
+    "variants": [
+      {
+        "src": "/media/video/ootd/cover-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/ootd/cover-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/ootd/cover-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
   "/media/video/parallel-worlds/cover": {
     "width": 1920,
     "height": 1080,
@@ -3179,6 +3294,121 @@
       },
       {
         "src": "/media/video/tvc-3/cover-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/tvc-4/asset-01": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "3ac17af0136c907b8a39280333151cc701d77e1a8e71e8d72ec2920e1603e0c8",
+    "variants": [
+      {
+        "src": "/media/video/tvc-4/asset-01-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/tvc-4/asset-01-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/tvc-4/asset-01-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/tvc-4/asset-02": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "3ac17af0136c907b8a39280333151cc701d77e1a8e71e8d72ec2920e1603e0c8",
+    "variants": [
+      {
+        "src": "/media/video/tvc-4/asset-02-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/tvc-4/asset-02-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/tvc-4/asset-02-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/tvc-4/asset-03": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "b5279087e9b4d4e11f8c60b93209094624a8a0daeab19ce7ef006ea64e814e58",
+    "variants": [
+      {
+        "src": "/media/video/tvc-4/asset-03-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/tvc-4/asset-03-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/tvc-4/asset-03-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/tvc-4/asset-04": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "0427f7232e9cbd4ab69375264cf5049be3f95b70a40dceca5a7aaf34c678a770",
+    "variants": [
+      {
+        "src": "/media/video/tvc-4/asset-04-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/tvc-4/asset-04-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/tvc-4/asset-04-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/tvc-4/cover": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "0427f7232e9cbd4ab69375264cf5049be3f95b70a40dceca5a7aaf34c678a770",
+    "variants": [
+      {
+        "src": "/media/video/tvc-4/cover-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/tvc-4/cover-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/tvc-4/cover-1440.webp",
         "width": 1440,
         "height": 1080
       }
