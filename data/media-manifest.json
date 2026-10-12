@@ -1444,6 +1444,24 @@
       }
     ]
   },
+  "/media/profile/ren-shuo": {
+    "width": 1122,
+    "height": 1402,
+    "hasAlpha": false,
+    "hash": "a5f0d5fbe4a282da6a6b19b42b2008b89587b0dd2ef8b91c8a833e7ebc92d913",
+    "variants": [
+      {
+        "src": "/media/profile/ren-shuo-640.webp",
+        "width": 640,
+        "height": 800
+      },
+      {
+        "src": "/media/profile/ren-shuo-960.webp",
+        "width": 960,
+        "height": 1200
+      }
+    ]
+  },
   "/media/video/after-hours/cover": {
     "width": 1920,
     "height": 1080,

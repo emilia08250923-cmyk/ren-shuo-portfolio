@@ -476,3 +476,14 @@ body { font-family:"Geist","PingFang SC","Microsoft YaHei","Noto Sans CJK SC",sa
 
 .desktop-nav>a { font-size:18px; }
 .artwork-frame[role="button"] { cursor:zoom-in; }
+
+/* Personal homepage: one introduction with a full-color portrait. */
+.personal-hero { min-height:calc(100svh - 88px); display:grid; grid-template-columns:1.4fr 1fr; gap:7vw; align-items:center; padding:44px 5vw; }
+.personal-name { font-size:clamp(34px,3.5vw,64px); font-weight:700; margin-bottom:22px; }
+.personal-intro h1 { font-size:clamp(42px,5.2vw,100px); line-height:1.18; font-weight:800; letter-spacing:-.035em; }
+.personal-tagline { font-size:16px; margin-top:30px; }
+.personal-intro .hero-description { margin-top:20px; font-size:clamp(17px,1.4vw,25px); }
+.personal-photo { margin:0; width:100%; max-width:520px; justify-self:end; }
+.personal-photo img { width:100%; height:auto; max-height:calc(100svh - 170px); object-fit:contain; filter:none; }
+body:has(.personal-hero) .site-footer { display:none; }
+@media(max-width:767px) { .personal-hero { grid-template-columns:1fr; gap:32px; padding:32px 6vw; } .personal-photo { justify-self:center; max-width:360px; } .personal-photo img { max-height:none; } .personal-name { font-size:36px; margin-bottom:18px; } .personal-intro h1 { font-size:clamp(36px,8.5vw,58px); } .personal-tagline { font-size:13px; margin-top:22px; } }

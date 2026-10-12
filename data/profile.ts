@@ -1,5 +1,5 @@
 export const profile = {
-  name: "Foldcraft",
+  name: "任硕",
   role: "视觉设计师与视频创作者",
   tagline: "视觉设计 · 动态影像 · 故事表达 · 创意制作",
   email: "3067382469@qq.com",
@@ -8,7 +8,7 @@ export const profile = {
   location: "期待创意合作与工作机会",
   bio: "我在视觉设计与动态影像的交汇处展开创作，探索如何通过品牌、字体与叙事，将想法转化为可被感知的视觉体验。",
   bioIsDraft: true,
-  portrait: "",
+  portrait: "/media/profile/ren-shuo",
   resume: "/resume/foldcraft-resume-template.pdf",
   resumeIsTemplate: true,
   contactApi: "",
