@@ -6,7 +6,7 @@ import { ArrowDown, ArrowUpRight, Menu, X } from "lucide-react";
 import { useState } from "react";
 import { Dialog, DialogContent, DialogTitle, DialogTrigger, DialogClose, DialogDescription } from "@/components/ui/dialog";
 import { profile } from "@/data/profile";
-const links = [{ label: "首页", href: "/" }, { label: "设计", href: "/design" }, { label: "视频", href: "/video" }, { label: "关于", href: "/about" }, { label: "联系", href: "/contact" }];
+const links = [{ label: "首页", href: "/" }, { label: "设计", href: "/design" }, { label: "视频", href: "/video" }, { label: "关于", href: "/about" }, { label: "联系", href: "/about#contact" }];
 export function Navbar() {
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
