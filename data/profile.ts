@@ -16,10 +16,7 @@ export const profile = {
   experience: [] as { company: string; position: string; year: string; description: string }[],
   education: [] as { school: string; major: string; year: string }[],
   tools: ["Photoshop", "Illustrator", "After Effects", "Premiere Pro", "Figma", "人工智能创作流程"],
-  socials: [
-    { label: "LinkedIn", url: "" }, { label: "Behance", url: "" },
-    { label: "哔哩哔哩", url: "" }, { label: "小红书", url: "" },
-  ],
+  socials: [] as { label: string; url: string }[],
 };
 
 export const capabilities = {
