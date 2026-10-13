@@ -4122,6 +4122,190 @@
       }
     ]
   },
+  "/media/video/yun-shang-xian-tu/asset-01": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "261492d3fe94468697e5201c7bbae3079176b2be7323c6c6d0a19a7d9cbaab1d",
+    "variants": [
+      {
+        "src": "/media/video/yun-shang-xian-tu/asset-01-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/yun-shang-xian-tu/asset-01-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/yun-shang-xian-tu/asset-01-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/yun-shang-xian-tu/asset-02": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "970877628875be5df2c71e15519711233d25066a40d86d724202c99b651f3904",
+    "variants": [
+      {
+        "src": "/media/video/yun-shang-xian-tu/asset-02-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/yun-shang-xian-tu/asset-02-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/yun-shang-xian-tu/asset-02-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/yun-shang-xian-tu/asset-03": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "d36297ccca4eab296eb87761a2b68d16fe81d06ccf31805b7cfb24b846723731",
+    "variants": [
+      {
+        "src": "/media/video/yun-shang-xian-tu/asset-03-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/yun-shang-xian-tu/asset-03-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/yun-shang-xian-tu/asset-03-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/yun-shang-xian-tu/asset-04": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "12d9f28a1521df2aeffd79f9d2ea6aceb7d97d08e5c0ee6b36b744450e770501",
+    "variants": [
+      {
+        "src": "/media/video/yun-shang-xian-tu/asset-04-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/yun-shang-xian-tu/asset-04-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/yun-shang-xian-tu/asset-04-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/yun-shang-xian-tu/asset-05": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "c55896e101bed8ce3063636aabc11b3741702c90e1e7092fdcd02272da5b103b",
+    "variants": [
+      {
+        "src": "/media/video/yun-shang-xian-tu/asset-05-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/yun-shang-xian-tu/asset-05-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/yun-shang-xian-tu/asset-05-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/yun-shang-xian-tu/asset-06": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "50ddd0c995c2651ed685d721b00c6af96bc6dcd9def2ee8dc791e9dfaf523ff8",
+    "variants": [
+      {
+        "src": "/media/video/yun-shang-xian-tu/asset-06-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/yun-shang-xian-tu/asset-06-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/yun-shang-xian-tu/asset-06-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/yun-shang-xian-tu/asset-07": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "de433f4591f3ca59ac31731bb6662c6d15c3541e3b7baebf890469bb29e6d952",
+    "variants": [
+      {
+        "src": "/media/video/yun-shang-xian-tu/asset-07-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/yun-shang-xian-tu/asset-07-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/yun-shang-xian-tu/asset-07-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
+  "/media/video/yun-shang-xian-tu/cover": {
+    "width": 1448,
+    "height": 1086,
+    "hasAlpha": false,
+    "hash": "d36297ccca4eab296eb87761a2b68d16fe81d06ccf31805b7cfb24b846723731",
+    "variants": [
+      {
+        "src": "/media/video/yun-shang-xian-tu/cover-640.webp",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "src": "/media/video/yun-shang-xian-tu/cover-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "/media/video/yun-shang-xian-tu/cover-1440.webp",
+        "width": 1440,
+        "height": 1080
+      }
+    ]
+  },
   "/media/video/zhen-ren-ge-dou/asset-01": {
     "width": 1448,
     "height": 1086,

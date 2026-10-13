@@ -139,6 +139,11 @@ export const projects: Project[] = [
     bilibiliUrl: "https://www.bilibili.com/video/BV1Ewpe6JEbs/", bvid: "BV1Ewpe6JEbs", role: [], tools: [], process: [],
     episodes: [{title: "正片", bvid: "BV1Ewpe6JEbs"}], assetsUrl: "/video/yi-cheng-jue-xing/assets"
   },
+  { id: 713, slug: "yun-shang-xian-tu", title: "云上仙途（影视游戏）", category: "all", type: "video", year: "", duration: "—", demo: false,
+    cover: "/media/video/yun-shang-xian-tu/cover", description: "云上仙途（影视游戏）。可在站内观看，并浏览剧本与图片资产。",
+    bilibiliUrl: "https://www.bilibili.com/video/BV1Zwpe6EERG/", bvid: "BV1Zwpe6EERG", role: [], tools: [], process: [],
+    episodes: [{title: "正片", bvid: "BV1Zwpe6EERG"}], assetsUrl: "/video/yun-shang-xian-tu/assets"
+  },
   ...uploadedPosters,
   ...uploadedBanners,
   ...uploadedIPs,
