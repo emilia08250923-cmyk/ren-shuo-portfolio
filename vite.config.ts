@@ -60,7 +60,7 @@ export default defineConfig(async ({ command }) => {
         ? { watch: { useFsEvents: false, usePolling: true } }
         : {}),
     },
-    plugins: [
+    plugins: process.env.GITHUB_PAGES === "1" ? [vinext()] : [
       vinext(),
       sites({ mockAuth: !managedLinux }),
       connectorPreview(),
