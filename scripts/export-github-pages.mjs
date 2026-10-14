@@ -36,8 +36,8 @@ for(const route of routes){
   document.querySelectorAll('[href],[src],[srcset]').forEach(e=>{for(const a of ['href','src','srcset']){let v=e.getAttribute(a);if(v){v=v.replace(/(^|,\s*)(\/(?!\/)[^\s,]*)/g,(m,lead,url)=>lead+(url.startsWith(base+'/')?url:base+url));e.setAttribute(a,v);}}});
   document.querySelectorAll('a[href]').forEach(a=>{const v=a.getAttribute('href');if(v===base+'/')return;if(v.startsWith(base+'/')&&!/\.[a-z0-9]+($|[?#])/i.test(v)){const hash=v.indexOf('#');a.setAttribute('href',hash<0?v.replace(/\/?$/,'/'):v.slice(0,hash).replace(/\/?$/,'/')+v.slice(hash));}});
   const script=document.createElement('script');script.type='application/json';script.id='pages-data';script.textContent=JSON.stringify(data).replace(/</g,'\\u003c');document.body.append(script);
-  document.querySelectorAll('link[rel=stylesheet]').forEach(link=>{if(link.getAttribute('href')===base+'/app/globals.css')link.setAttribute('href',base+'/app/globals.css?v=20261014-update');});
-  const js=document.createElement('script');js.src=base+'/pages-interactions.js?v=20261014-update';js.defer=true;document.body.append(js);
+  document.querySelectorAll('link[rel=stylesheet]').forEach(link=>{if(link.getAttribute('href')===base+'/app/globals.css')link.setAttribute('href',base+'/app/globals.css?v=20261014-layout2');});
+  const js=document.createElement('script');js.src=base+'/pages-interactions.js?v=20261014-layout2';js.defer=true;document.body.append(js);
  },{base,data,manifest});
  const html=('<!doctype html>\n'+await page.locator('html').evaluate(e=>e.outerHTML)).replaceAll('https://foldcraft-studio.emilia08250923.chatgpt.site','https://emilia08250923-cmyk.github.io/ren-shuo-portfolio');
  const directory=path.join(out,route);await fs.mkdir(directory,{recursive:true});await fs.writeFile(path.join(directory,'index.html'),html);
