@@ -28,7 +28,7 @@ for(const route of routes){
  const data={base,project,images:images?.map(i=>({...i,src:manifest[i.base]?.variants.at(-1)?.src})),categories:designCategories,projects:route==='/design'?projects.filter(p=>p.type==='design'):undefined};
  await page.evaluate(({base,data,manifest})=>{
   document.querySelectorAll('script,link[rel=modulepreload],link[as=script],vite-error-overlay').forEach(e=>e.remove());
-  document.querySelectorAll('.projects-grid>div,.reveal').forEach(e=>{e.style.opacity='1';e.style.transform='none';});
+  document.querySelectorAll('#main-content>div,.projects-grid>div,.reveal').forEach(e=>{e.style.opacity='1';e.style.transform='none';});
   document.querySelectorAll('.design-carousel[data-images]').forEach(carousel=>{
    const images=JSON.parse(carousel.dataset.images);
    carousel.dataset.images=JSON.stringify(images.map(image=>({...image,src:manifest[image.base]?.variants.at(-1)?.src})));
